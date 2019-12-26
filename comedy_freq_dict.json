@@ -1,0 +1,6638 @@
+{
+    "edo1": [
+        null,
+        31731.456
+    ],
+    "qui1": [
+        "P",
+        28976.635
+    ],
+    "sum1": [
+        "V",
+        19997.959
+    ],
+    "facio": [
+        "V",
+        14998.47
+    ],
+    "quis1": [
+        "P",
+        12957.861
+    ],
+    "dico2": [
+        "V",
+        8876.645
+    ],
+    "nunc": [
+        "D",
+        8570.554
+    ],
+    "meus": [
+        "A",
+        7958.372
+    ],
+    "volo1": [
+        "V",
+        5509.642
+    ],
+    "eo1": [
+        "D",
+        5407.611
+    ],
+    "-ne": [
+        "U",
+        5203.551
+    ],
+    "iste": [
+        "P",
+        5203.551
+    ],
+    "verus": [
+        "A",
+        4999.49
+    ],
+    "ito": [
+        "V",
+        4999.49
+    ],
+    "jam": [
+        null,
+        4795.429
+    ],
+    "tuus": [
+        "A",
+        4795.429
+    ],
+    "amphitruo": [
+        null,
+        4693.399
+    ],
+    "sosia": [
+        null,
+        4489.338
+    ],
+    "video": [
+        "V",
+        4489.338
+    ],
+    "homo": [
+        "N",
+        4183.247
+    ],
+    "abeo": [
+        null,
+        4081.216
+    ],
+    "-que": [
+        "U",
+        3979.186
+    ],
+    "neo1": [
+        null,
+        3979.186
+    ],
+    "huc": [
+        "D",
+        3775.125
+    ],
+    "advenio": [
+        null,
+        3571.064
+    ],
+    "domus": [
+        "N",
+        3571.064
+    ],
+    "pater": [
+        "N",
+        3571.064
+    ],
+    "hodie": [
+        "D",
+        3571.064
+    ],
+    "iupp": [
+        null,
+        3469.034
+    ],
+    "uxor": [
+        "N",
+        3367.003
+    ],
+    "modus": [
+        "N",
+        3367.003
+    ],
+    "erus": [
+        null,
+        3367.003
+    ],
+    "reor": [
+        "V",
+        3264.973
+    ],
+    "bonus": [
+        "A",
+        3264.973
+    ],
+    "scio": [
+        "V",
+        3264.973
+    ],
+    "do": [
+        null,
+        3264.973
+    ],
+    "vir": [
+        "N",
+        3060.912
+    ],
+    "iuppiter": [
+        "N",
+        2958.882
+    ],
+    "hinc": [
+        "D",
+        2958.882
+    ],
+    "illic": [
+        "D",
+        2958.882
+    ],
+    "res": [
+        "N",
+        2856.851
+    ],
+    "venio": [
+        "V",
+        2856.851
+    ],
+    "malus": [
+        "A",
+        2754.821
+    ],
+    "queo": [
+        null,
+        2652.791
+    ],
+    "aedes": [
+        null,
+        2652.791
+    ],
+    "edepol": [
+        null,
+        2652.791
+    ],
+    "omne": [
+        "A",
+        2550.76
+    ],
+    "am": [
+        null,
+        2550.76
+    ],
+    "capio": [
+        null,
+        2448.73
+    ],
+    "habeo": [
+        "V",
+        2448.73
+    ],
+    "ago": [
+        "V",
+        2448.73
+    ],
+    "credo": [
+        "V",
+        2448.73
+    ],
+    "meo": [
+        "A",
+        2448.73
+    ],
+    "nitor1": [
+        "N",
+        2448.73
+    ],
+    "deus": [
+        "N",
+        2346.699
+    ],
+    "nox": [
+        "N",
+        2346.699
+    ],
+    "jubeo": [
+        null,
+        2244.669
+    ],
+    "loquor": [
+        "V",
+        2244.669
+    ],
+    "s.": [
+        null,
+        2244.669
+    ],
+    "quin": [
+        "C",
+        2142.639
+    ],
+    "alcumena": [
+        null,
+        2040.608
+    ],
+    "proficio": [
+        null,
+        2040.608
+    ],
+    "dudum": [
+        "D",
+        2040.608
+    ],
+    "primus": [
+        "A",
+        1938.578
+    ],
+    "suo": [
+        "A",
+        1938.578
+    ],
+    "noster": [
+        "A",
+        1938.578
+    ],
+    "patera": [
+        null,
+        1938.578
+    ],
+    "m": [
+        null,
+        1836.547
+    ],
+    "equidem": [
+        "D",
+        1836.547
+    ],
+    "servus1": [
+        "N",
+        1734.517
+    ],
+    "alius2": [
+        "A",
+        1734.517
+    ],
+    "amo": [
+        "V",
+        1734.517
+    ],
+    "certus": [
+        "A",
+        1734.517
+    ],
+    "magnus": [
+        "A",
+        1632.486
+    ],
+    "multus": [
+        "A",
+        1632.486
+    ],
+    "adsum": [
+        null,
+        1632.486
+    ],
+    "sero1": [
+        "D",
+        1632.486
+    ],
+    "m.": [
+        null,
+        1632.486
+    ],
+    "postquam": [
+        "C",
+        1530.456
+    ],
+    "uto": [
+        null,
+        1530.456
+    ],
+    "miro": [
+        null,
+        1530.456
+    ],
+    "numquam": [
+        "D",
+        1530.456
+    ],
+    "alter": [
+        "A",
+        1530.456
+    ],
+    "legio": [
+        null,
+        1530.456
+    ],
+    "magus2": [
+        null,
+        1530.456
+    ],
+    "ab.": [
+        "R",
+        1530.456
+    ],
+    "non.": [
+        "D",
+        1530.456
+    ],
+    "audio": [
+        null,
+        1428.426
+    ],
+    "pario2": [
+        null,
+        1428.426
+    ],
+    "amphitruonis": [
+        null,
+        1326.395
+    ],
+    "mitto": [
+        "V",
+        1326.395
+    ],
+    "omnes": [
+        "A",
+        1326.395
+    ],
+    "quasi": [
+        "D",
+        1326.395
+    ],
+    "animo": [
+        "N",
+        1326.395
+    ],
+    "fero": [
+        "V",
+        1326.395
+    ],
+    "miser": [
+        "A",
+        1326.395
+    ],
+    "vinco": [
+        null,
+        1326.395
+    ],
+    "vigilo": [
+        null,
+        1326.395
+    ],
+    "sosiam": [
+        null,
+        1326.395
+    ],
+    "al": [
+        null,
+        1326.395
+    ],
+    "hostis": [
+        "N",
+        1224.365
+    ],
+    "pro1": [
+        "R",
+        1224.365
+    ],
+    "virtus": [
+        "N",
+        1224.365
+    ],
+    "nescio": [
+        "V",
+        1224.365
+    ],
+    "oportet": [
+        "V",
+        1224.365
+    ],
+    "manus1": [
+        "N",
+        1224.365
+    ],
+    "inquam": [
+        "V",
+        1224.365
+    ],
+    "opus1": [
+        "N",
+        1224.365
+    ],
+    "gero1": [
+        null,
+        1122.334
+    ],
+    "absum": [
+        null,
+        1122.334
+    ],
+    "redeo": [
+        null,
+        1122.334
+    ],
+    "aequus": [
+        "A",
+        1122.334
+    ],
+    "recingo": [
+        null,
+        1122.334
+    ],
+    "exerceo": [
+        null,
+        1122.334
+    ],
+    "quando": [
+        "D",
+        1122.334
+    ],
+    "suum": [
+        "A",
+        1122.334
+    ],
+    "dono": [
+        "V",
+        1122.334
+    ],
+    "vis": [
+        "N",
+        1122.334
+    ],
+    "verbum": [
+        "N",
+        1122.334
+    ],
+    "pereo": [
+        null,
+        1122.334
+    ],
+    "quaeso": [
+        "V",
+        1122.334
+    ],
+    "aio": [
+        null,
+        1122.334
+    ],
+    "puer": [
+        "N",
+        1122.334
+    ],
+    "benus": [
+        null,
+        1020.304
+    ],
+    "simul": [
+        "D",
+        1020.304
+    ],
+    "quoque": [
+        "D",
+        1020.304
+    ],
+    "proinde": [
+        "D",
+        1020.304
+    ],
+    "adeo1": [
+        "D",
+        1020.304
+    ],
+    "censeo1": [
+        "V",
+        1020.304
+    ],
+    "portus": [
+        null,
+        1020.304
+    ],
+    "liceo1": [
+        null,
+        1020.304
+    ],
+    "verbero1": [
+        null,
+        1020.304
+    ],
+    "sino": [
+        null,
+        1020.304
+    ],
+    "pugna": [
+        null,
+        1020.304
+    ],
+    "obsecro": [
+        null,
+        1020.304
+    ],
+    "no1": [
+        null,
+        1020.304
+    ],
+    "rogo": [
+        "V",
+        1020.304
+    ],
+    "actutum": [
+        null,
+        1020.304
+    ],
+    "intro2": [
+        "D",
+        1020.304
+    ],
+    "amphitruonem": [
+        null,
+        1020.304
+    ],
+    "argumentum": [
+        "N",
+        918.274
+    ],
+    "mirus": [
+        null,
+        918.274
+    ],
+    "vester": [
+        "A",
+        918.274
+    ],
+    "parvus": [
+        null,
+        918.274
+    ],
+    "filius": [
+        "N",
+        918.274
+    ],
+    "pax": [
+        "N",
+        918.274
+    ],
+    "decet": [
+        "V",
+        918.274
+    ],
+    "animus": [
+        "N",
+        918.274
+    ],
+    "arbitror": [
+        "V",
+        918.274
+    ],
+    "ibi": [
+        "D",
+        918.274
+    ],
+    "nemo": [
+        "N",
+        918.274
+    ],
+    "gratia": [
+        "N",
+        918.274
+    ],
+    "probus1": [
+        null,
+        918.274
+    ],
+    "valeo": [
+        null,
+        918.274
+    ],
+    "rex": [
+        "N",
+        918.274
+    ],
+    "-": [
+        "U",
+        918.274
+    ],
+    "immo": [
+        "D",
+        918.274
+    ],
+    "sanus": [
+        null,
+        918.274
+    ],
+    "fallo": [
+        null,
+        918.274
+    ],
+    "dico1": [
+        "V",
+        918.274
+    ],
+    "mulier": [
+        "N",
+        918.274
+    ],
+    "ecastor": [
+        null,
+        918.274
+    ],
+    "brom": [
+        null,
+        918.274
+    ],
+    "mercurius": [
+        "N",
+        816.243
+    ],
+    "deludo": [
+        null,
+        816.243
+    ],
+    "nomen": [
+        "N",
+        816.243
+    ],
+    "teneo": [
+        "V",
+        816.243
+    ],
+    "nolo": [
+        "V",
+        816.243
+    ],
+    "prior": [
+        "A",
+        816.243
+    ],
+    "cubo": [
+        null,
+        816.243
+    ],
+    "familiaris": [
+        "A",
+        816.243
+    ],
+    "seruom": [
+        null,
+        816.243
+    ],
+    "alcumenae": [
+        null,
+        816.243
+    ],
+    "nonne": [
+        "D",
+        816.243
+    ],
+    "duco": [
+        null,
+        816.243
+    ],
+    "pugno": [
+        null,
+        816.243
+    ],
+    "magnus1": [
+        "A",
+        816.243
+    ],
+    "nimis": [
+        "D",
+        816.243
+    ],
+    "similis": [
+        "A",
+        816.243
+    ],
+    "foris1": [
+        "D",
+        816.243
+    ],
+    "certo2": [
+        "A",
+        816.243
+    ],
+    "praedico2": [
+        null,
+        816.243
+    ],
+    "sequor": [
+        null,
+        816.243
+    ],
+    "sosiae": [
+        null,
+        714.213
+    ],
+    "morior": [
+        null,
+        714.213
+    ],
+    "cieo": [
+        null,
+        714.213
+    ],
+    "nosco": [
+        null,
+        714.213
+    ],
+    "justus": [
+        null,
+        714.213
+    ],
+    "eloquor": [
+        null,
+        714.213
+    ],
+    "io1": [
+        "E",
+        714.213
+    ],
+    "oro": [
+        "V",
+        714.213
+    ],
+    "imperium": [
+        "N",
+        714.213
+    ],
+    "metuo": [
+        null,
+        714.213
+    ],
+    "iouem": [
+        null,
+        714.213
+    ],
+    "mereo": [
+        null,
+        714.213
+    ],
+    "curo": [
+        "V",
+        714.213
+    ],
+    "profero": [
+        null,
+        714.213
+    ],
+    "urbs": [
+        "N",
+        714.213
+    ],
+    "libo1": [
+        null,
+        714.213
+    ],
+    "occipio": [
+        null,
+        714.213
+    ],
+    "corpus": [
+        "N",
+        714.213
+    ],
+    "intus": [
+        "D",
+        714.213
+    ],
+    "voluptas": [
+        "N",
+        714.213
+    ],
+    "memoro": [
+        null,
+        714.213
+    ],
+    "accipio": [
+        null,
+        714.213
+    ],
+    "mens": [
+        "N",
+        714.213
+    ],
+    "solo1": [
+        "N",
+        714.213
+    ],
+    "salvus": [
+        null,
+        714.213
+    ],
+    "contra": [
+        "D",
+        714.213
+    ],
+    "sto": [
+        "V",
+        714.213
+    ],
+    "pergo": [
+        null,
+        714.213
+    ],
+    "pol": [
+        null,
+        714.213
+    ],
+    "nullus": [
+        "A",
+        714.213
+    ],
+    "Hercules": [
+        null,
+        714.213
+    ],
+    "irascor": [
+        null,
+        714.213
+    ],
+    "juro": [
+        null,
+        714.213
+    ],
+    "tueor": [
+        null,
+        714.213
+    ],
+    "duo": [
+        "A",
+        714.213
+    ],
+    "b.": [
+        null,
+        714.213
+    ],
+    "anguis": [
+        null,
+        714.213
+    ],
+    "telobois": [
+        null,
+        612.182
+    ],
+    "forma": [
+        "N",
+        612.182
+    ],
+    "uter": [
+        null,
+        612.182
+    ],
+    "vox": [
+        "N",
+        612.182
+    ],
+    "gemini": [
+        null,
+        612.182
+    ],
+    "nuntio": [
+        null,
+        612.182
+    ],
+    "intellego": [
+        "V",
+        612.182
+    ],
+    "nascor": [
+        null,
+        612.182
+    ],
+    "comoedia": [
+        null,
+        612.182
+    ],
+    "summus": [
+        null,
+        612.182
+    ],
+    "ecce": [
+        "D",
+        612.182
+    ],
+    "amphitruoni": [
+        null,
+        612.182
+    ],
+    "usque": [
+        "D",
+        612.182
+    ],
+    "causa": [
+        "N",
+        612.182
+    ],
+    "expeto": [
+        null,
+        612.182
+    ],
+    "ilico": [
+        null,
+        612.182
+    ],
+    "timeo": [
+        "V",
+        612.182
+    ],
+    "malo": [
+        "V",
+        612.182
+    ],
+    "aspicio": [
+        null,
+        612.182
+    ],
+    "fortis": [
+        "A",
+        612.182
+    ],
+    "scelestus": [
+        null,
+        612.182
+    ],
+    "negotium": [
+        "N",
+        612.182
+    ],
+    "nego": [
+        null,
+        612.182
+    ],
+    "insimulo": [
+        null,
+        612.182
+    ],
+    "probrum": [
+        null,
+        612.182
+    ],
+    "aetas": [
+        "N",
+        612.182
+    ],
+    "jocus": [
+        null,
+        612.182
+    ],
+    "bellus": [
+        "A",
+        510.152
+    ],
+    "afficio": [
+        null,
+        510.152
+    ],
+    "expedio": [
+        null,
+        510.152
+    ],
+    "jus": [
+        null,
+        510.152
+    ],
+    "mos": [
+        "N",
+        510.152
+    ],
+    "par": [
+        "A",
+        510.152
+    ],
+    "totus1": [
+        "A",
+        510.152
+    ],
+    "histrio": [
+        null,
+        510.152
+    ],
+    "semper": [
+        "D",
+        510.152
+    ],
+    "gravida": [
+        null,
+        510.152
+    ],
+    "quantus": [
+        "A",
+        510.152
+    ],
+    "utor": [
+        null,
+        510.152
+    ],
+    "utrimque": [
+        "D",
+        510.152
+    ],
+    "longus": [
+        "A",
+        510.152
+    ],
+    "aufero": [
+        null,
+        510.152
+    ],
+    "signo": [
+        "N",
+        510.152
+    ],
+    "opera": [
+        "N",
+        510.152
+    ],
+    "auxilium": [
+        "N",
+        510.152
+    ],
+    "puto": [
+        "V",
+        510.152
+    ],
+    "oppidum": [
+        "N",
+        510.152
+    ],
+    "soleo": [
+        "V",
+        510.152
+    ],
+    "continuo2": [
+        "D",
+        510.152
+    ],
+    "lego2": [
+        "V",
+        510.152
+    ],
+    "omnis": [
+        "A",
+        510.152
+    ],
+    "exeo": [
+        null,
+        510.152
+    ],
+    "caelum1": [
+        "N",
+        510.152
+    ],
+    "loco": [
+        "N",
+        510.152
+    ],
+    "manon": [
+        null,
+        510.152
+    ],
+    "accedo": [
+        null,
+        510.152
+    ],
+    "ceno": [
+        null,
+        510.152
+    ],
+    "placo": [
+        null,
+        510.152
+    ],
+    "pugnus": [
+        null,
+        510.152
+    ],
+    "autumo": [
+        null,
+        510.152
+    ],
+    "servo": [
+        "N",
+        510.152
+    ],
+    "ni": [
+        "D",
+        510.152
+    ],
+    "numquid": [
+        "D",
+        510.152
+    ],
+    "pudicus": [
+        null,
+        510.152
+    ],
+    "familia": [
+        "N",
+        510.152
+    ],
+    "istic2": [
+        null,
+        510.152
+    ],
+    "taceo": [
+        "V",
+        510.152
+    ],
+    "praeter": [
+        "R",
+        510.152
+    ],
+    "delinquo": [
+        null,
+        510.152
+    ],
+    "mortalis": [
+        "A",
+        510.152
+    ],
+    "appello": [
+        "V",
+        510.152
+    ],
+    "maneo": [
+        null,
+        510.152
+    ],
+    "tantus": [
+        "A",
+        510.152
+    ],
+    "ludifico": [
+        null,
+        510.152
+    ],
+    "saluto": [
+        null,
+        510.152
+    ],
+    "gaudeo": [
+        null,
+        510.152
+    ],
+    "caput": [
+        "N",
+        510.152
+    ],
+    "aperio": [
+        null,
+        510.152
+    ],
+    "rursum": [
+        null,
+        510.152
+    ],
+    "impudicus": [
+        null,
+        510.152
+    ],
+    "naucratem": [
+        null,
+        510.152
+    ],
+    "advoco": [
+        null,
+        510.152
+    ],
+    "servio": [
+        null,
+        408.122
+    ],
+    "dominus": [
+        "N",
+        408.122
+    ],
+    "u": [
+        null,
+        408.122
+    ],
+    "concedo": [
+        null,
+        408.122
+    ],
+    "dives": [
+        "A",
+        408.122
+    ],
+    "formido1": [
+        null,
+        408.122
+    ],
+    "tragoedia": [
+        null,
+        408.122
+    ],
+    "proloquor": [
+        null,
+        408.122
+    ],
+    "divus": [
+        null,
+        408.122
+    ],
+    "-ue": [
+        "U",
+        408.122
+    ],
+    "vivo": [
+        "N",
+        408.122
+    ],
+    "thebano": [
+        null,
+        408.122
+    ],
+    "populus1": [
+        "N",
+        408.122
+    ],
+    "alcumenam": [
+        null,
+        408.122
+    ],
+    "comprimo": [
+        null,
+        408.122
+    ],
+    "gravidus": [
+        null,
+        408.122
+    ],
+    "imagino": [
+        null,
+        408.122
+    ],
+    "lubet": [
+        "V",
+        408.122
+    ],
+    "quaero": [
+        null,
+        408.122
+    ],
+    "paciscor": [
+        null,
+        408.122
+    ],
+    "donum": [
+        null,
+        408.122
+    ],
+    "aureus": [
+        "A",
+        408.122
+    ],
+    "signum": [
+        "N",
+        408.122
+    ],
+    "mercurium": [
+        null,
+        408.122
+    ],
+    "audax": [
+        "A",
+        408.122
+    ],
+    "validus": [
+        null,
+        408.122
+    ],
+    "peregre": [
+        null,
+        408.122
+    ],
+    "dies": [
+        "N",
+        408.122
+    ],
+    "labor2": [
+        "N",
+        408.122
+    ],
+    "multo2": [
+        "D",
+        408.122
+    ],
+    "num": [
+        "D",
+        408.122
+    ],
+    "os1": [
+        "N",
+        408.122
+    ],
+    "irrito1": [
+        null,
+        408.122
+    ],
+    "civis": [
+        "N",
+        408.122
+    ],
+    "auspicium": [
+        null,
+        408.122
+    ],
+    "mendacium": [
+        "N",
+        408.122
+    ],
+    "fabulor": [
+        null,
+        408.122
+    ],
+    "terra": [
+        "N",
+        408.122
+    ],
+    "respondeo": [
+        null,
+        408.122
+    ],
+    "imperator": [
+        "N",
+        408.122
+    ],
+    "ferio": [
+        null,
+        408.122
+    ],
+    "supero": [
+        null,
+        408.122
+    ],
+    "jaceo": [
+        null,
+        408.122
+    ],
+    "dexter": [
+        null,
+        408.122
+    ],
+    "dius": [
+        "N",
+        408.122
+    ],
+    "pterela": [
+        null,
+        408.122
+    ],
+    "era": [
+        null,
+        408.122
+    ],
+    "umquam": [
+        "D",
+        408.122
+    ],
+    "dormio": [
+        "V",
+        408.122
+    ],
+    "ai": [
+        null,
+        408.122
+    ],
+    "impero": [
+        null,
+        408.122
+    ],
+    "ad-verto": [
+        "R",
+        408.122
+    ],
+    "sapio": [
+        null,
+        408.122
+    ],
+    "exosso": [
+        null,
+        408.122
+    ],
+    "domo": [
+        "N",
+        408.122
+    ],
+    "voco": [
+        null,
+        408.122
+    ],
+    "ullus": [
+        "A",
+        408.122
+    ],
+    "prae": [
+        "R",
+        408.122
+    ],
+    "mentior": [
+        "V",
+        408.122
+    ],
+    "prohibeo": [
+        null,
+        408.122
+    ],
+    "postulo": [
+        null,
+        408.122
+    ],
+    "thebani": [
+        null,
+        408.122
+    ],
+    "fides1": [
+        "N",
+        408.122
+    ],
+    "audeo": [
+        "V",
+        408.122
+    ],
+    "obsigno": [
+        null,
+        408.122
+    ],
+    "via": [
+        "N",
+        408.122
+    ],
+    "saltem": [
+        "D",
+        408.122
+    ],
+    "cognosco": [
+        null,
+        408.122
+    ],
+    "oculus": [
+        "N",
+        408.122
+    ],
+    "sentio": [
+        null,
+        408.122
+    ],
+    "immortalis": [
+        null,
+        408.122
+    ],
+    "perdo": [
+        null,
+        408.122
+    ],
+    "narro": [
+        null,
+        408.122
+    ],
+    "ambo": [
+        "M",
+        408.122
+    ],
+    "metior": [
+        null,
+        408.122
+    ],
+    "foro": [
+        "N",
+        408.122
+    ],
+    "experior": [
+        null,
+        408.122
+    ],
+    "conspicio1": [
+        null,
+        408.122
+    ],
+    "nusquam": [
+        "D",
+        408.122
+    ],
+    "ecquis": [
+        "P",
+        408.122
+    ],
+    "deliro": [
+        null,
+        408.122
+    ],
+    "potio2": [
+        "N",
+        408.122
+    ],
+    "recipio": [
+        null,
+        408.122
+    ],
+    "lavo": [
+        null,
+        408.122
+    ],
+    "facinus": [
+        "N",
+        408.122
+    ],
+    "cognatus": [
+        null,
+        408.122
+    ],
+    "adduco": [
+        null,
+        408.122
+    ],
+    "serius1": [
+        "D",
+        408.122
+    ],
+    "insons": [
+        null,
+        408.122
+    ],
+    "stuprum": [
+        "N",
+        408.122
+    ],
+    "arguo": [
+        "V",
+        408.122
+    ],
+    "cuna": [
+        null,
+        408.122
+    ],
+    "plautus1": [
+        null,
+        306.091
+    ],
+    "blepharo": [
+        null,
+        306.091
+    ],
+    "gubernator": [
+        "N",
+        306.091
+    ],
+    "bromia": [
+        null,
+        306.091
+    ],
+    "ancilla": [
+        null,
+        306.091
+    ],
+    "usurarius": [
+        null,
+        306.091
+    ],
+    "dolus": [
+        "N",
+        306.091
+    ],
+    "decerno": [
+        null,
+        306.091
+    ],
+    "frustro": [
+        null,
+        306.091
+    ],
+    "lucrum": [
+        "N",
+        306.091
+    ],
+    "ratio": [
+        "N",
+        306.091
+    ],
+    "affero": [
+        null,
+        306.091
+    ],
+    "quippe": [
+        "D",
+        306.091
+    ],
+    "peto": [
+        null,
+        306.091
+    ],
+    "quivis": [
+        null,
+        306.091
+    ],
+    "humanus": [
+        null,
+        306.091
+    ],
+    "mater": [
+        "N",
+        306.091
+    ],
+    "propterea": [
+        "D",
+        306.091
+    ],
+    "facilis": [
+        "A",
+        306.091
+    ],
+    "injustus": [
+        null,
+        306.091
+    ],
+    "ignoro": [
+        null,
+        306.091
+    ],
+    "stultus": [
+        null,
+        306.091
+    ],
+    "rego": [
+        "V",
+        306.091
+    ],
+    "lego1": [
+        "V",
+        306.091
+    ],
+    "victor1": [
+        "N",
+        306.091
+    ],
+    "fido": [
+        null,
+        306.091
+    ],
+    "mando1": [
+        null,
+        306.091
+    ],
+    "novus": [
+        "A",
+        306.091
+    ],
+    "nubo": [
+        null,
+        306.091
+    ],
+    "praeficio": [
+        null,
+        306.091
+    ],
+    "semel": [
+        "D",
+        306.091
+    ],
+    "clam": [
+        null,
+        306.091
+    ],
+    "orno": [
+        null,
+        306.091
+    ],
+    "antiquus": [
+        "A",
+        306.091
+    ],
+    "incedo": [
+        null,
+        306.091
+    ],
+    "sumo": [
+        null,
+        306.091
+    ],
+    "specto": [
+        null,
+        306.091
+    ],
+    "confido": [
+        "V",
+        306.091
+    ],
+    "solus": [
+        "N",
+        306.091
+    ],
+    "indo": [
+        null,
+        306.091
+    ],
+    "dignus": [
+        "A",
+        306.091
+    ],
+    "operio": [
+        null,
+        306.091
+    ],
+    "vernus": [
+        null,
+        306.091
+    ],
+    "alloquor": [
+        "V",
+        306.091
+    ],
+    "evenio": [
+        null,
+        306.091
+    ],
+    "contingo1": [
+        null,
+        306.091
+    ],
+    "ager": [
+        null,
+        306.091
+    ],
+    "fugio": [
+        null,
+        306.091
+    ],
+    "aduenimus": [
+        null,
+        306.091
+    ],
+    "reddo": [
+        null,
+        306.091
+    ],
+    "extemplo": [
+        "D",
+        306.091
+    ],
+    "ordo": [
+        "N",
+        306.091
+    ],
+    "tuto": [
+        "A",
+        306.091
+    ],
+    "pulcher1": [
+        null,
+        306.091
+    ],
+    "convenio": [
+        null,
+        306.091
+    ],
+    "ioui": [
+        null,
+        306.091
+    ],
+    "veto": [
+        null,
+        306.091
+    ],
+    "telum": [
+        null,
+        306.091
+    ],
+    "volvo": [
+        null,
+        306.091
+    ],
+    "anima": [
+        "N",
+        306.091
+    ],
+    "conspicor": [
+        null,
+        306.091
+    ],
+    "praesens": [
+        "A",
+        306.091
+    ],
+    "compleo": [
+        null,
+        306.091
+    ],
+    "pterelam": [
+        null,
+        306.091
+    ],
+    "ebrius": [
+        "A",
+        306.091
+    ],
+    "exorior": [
+        null,
+        306.091
+    ],
+    "occaedes": [
+        null,
+        306.091
+    ],
+    "invenio": [
+        "V",
+        306.091
+    ],
+    "infortunium": [
+        null,
+        306.091
+    ],
+    "obsequor": [
+        null,
+        306.091
+    ],
+    "clarus": [
+        "A",
+        306.091
+    ],
+    "demos": [
+        null,
+        306.091
+    ],
+    "metus": [
+        "N",
+        306.091
+    ],
+    "nuncia": [
+        null,
+        306.091
+    ],
+    "disco": [
+        null,
+        306.091
+    ],
+    "percutio": [
+        null,
+        306.091
+    ],
+    "abstineo": [
+        null,
+        306.091
+    ],
+    "exquiro": [
+        null,
+        306.091
+    ],
+    "prognatus": [
+        null,
+        306.091
+    ],
+    "potis": [
+        null,
+        306.091
+    ],
+    "navus": [
+        null,
+        306.091
+    ],
+    "persico": [
+        null,
+        306.091
+    ],
+    "contundo": [
+        null,
+        306.091
+    ],
+    "doleo": [
+        null,
+        306.091
+    ],
+    "cistula": [
+        null,
+        306.091
+    ],
+    "vinum": [
+        "N",
+        306.091
+    ],
+    "hirnea": [
+        null,
+        306.091
+    ],
+    "itidem": [
+        null,
+        306.091
+    ],
+    "collus": [
+        null,
+        306.091
+    ],
+    "nihil": [
+        "N",
+        306.091
+    ],
+    "immuto": [
+        null,
+        306.091
+    ],
+    "relinquo": [
+        null,
+        306.091
+    ],
+    "antehac": [
+        "D",
+        306.091
+    ],
+    "concordia1": [
+        "N",
+        306.091
+    ],
+    "crepo": [
+        null,
+        306.091
+    ],
+    "clanculum": [
+        null,
+        306.091
+    ],
+    "tempus": [
+        "N",
+        306.091
+    ],
+    "cedo1": [
+        null,
+        306.091
+    ],
+    "commodus1": [
+        null,
+        306.091
+    ],
+    "b": [
+        null,
+        306.091
+    ],
+    "persequor": [
+        null,
+        306.091
+    ],
+    "lux": [
+        "N",
+        306.091
+    ],
+    "caveo": [
+        null,
+        306.091
+    ],
+    "nimius": [
+        null,
+        306.091
+    ],
+    "somnus": [
+        "N",
+        306.091
+    ],
+    "consequor": [
+        null,
+        306.091
+    ],
+    "aqua": [
+        "N",
+        306.091
+    ],
+    "insanus1": [
+        "A",
+        306.091
+    ],
+    "sano": [
+        null,
+        306.091
+    ],
+    "vae": [
+        "E",
+        306.091
+    ],
+    "crucio": [
+        null,
+        306.091
+    ],
+    "appareo": [
+        null,
+        306.091
+    ],
+    "pudicitia": [
+        "N",
+        306.091
+    ],
+    "superus": [
+        null,
+        306.091
+    ],
+    "morigerus": [
+        null,
+        306.091
+    ],
+    "amitto": [
+        null,
+        306.091
+    ],
+    "dolor": [
+        "N",
+        306.091
+    ],
+    "ira": [
+        "N",
+        306.091
+    ],
+    "propitius": [
+        null,
+        306.091
+    ],
+    "purus": [
+        null,
+        306.091
+    ],
+    "decedo": [
+        null,
+        306.091
+    ],
+    ".k": [
+        "U",
+        306.091
+    ],
+    "parturio": [
+        null,
+        306.091
+    ],
+    "decipio": [
+        null,
+        204.061
+    ],
+    "donec": [
+        "C",
+        204.061
+    ],
+    "tonitrus": [
+        null,
+        204.061
+    ],
+    "adulter1": [
+        "N",
+        204.061
+    ],
+    "conjunx": [
+        null,
+        204.061
+    ],
+    "p": [
+        null,
+        204.061
+    ],
+    "patrium": [
+        null,
+        204.061
+    ],
+    "h": [
+        null,
+        204.061
+    ],
+    "s": [
+        null,
+        204.061
+    ],
+    "t": [
+        null,
+        204.061
+    ],
+    "r": [
+        null,
+        204.061
+    ],
+    "moechus": [
+        null,
+        204.061
+    ],
+    "arbiter": [
+        null,
+        204.061
+    ],
+    "laetus1": [
+        "A",
+        204.061
+    ],
+    "perpetuus": [
+        null,
+        204.061
+    ],
+    "nuntius": [
+        "N",
+        204.061
+    ],
+    "communis": [
+        "A",
+        204.061
+    ],
+    "fabula1": [
+        "N",
+        204.061
+    ],
+    "vereor": [
+        "V",
+        204.061
+    ],
+    "iniquus": [
+        "A",
+        204.061
+    ],
+    "aduortite": [
+        null,
+        204.061
+    ],
+    "publico": [
+        "A",
+        204.061
+    ],
+    "contraho": [
+        null,
+        204.061
+    ],
+    "supo": [
+        null,
+        204.061
+    ],
+    "tragicomoedia": [
+        null,
+        204.061
+    ],
+    "conquisitor": [
+        null,
+        204.061
+    ],
+    "singulus": [
+        null,
+        204.061
+    ],
+    "cavea": [
+        "N",
+        204.061
+    ],
+    "spectator": [
+        null,
+        204.061
+    ],
+    "delego": [
+        null,
+        204.061
+    ],
+    "placeo": [
+        null,
+        204.061
+    ],
+    "concaedes": [
+        null,
+        204.061
+    ],
+    "admiror": [
+        null,
+        204.061
+    ],
+    "histrionia": [
+        null,
+        204.061
+    ],
+    "auxilio": [
+        "N",
+        204.061
+    ],
+    "multa1": [
+        "N",
+        204.061
+    ],
+    "procedo": [
+        null,
+        204.061
+    ],
+    "verto": [
+        null,
+        204.061
+    ],
+    "creber": [
+        null,
+        204.061
+    ],
+    "complector": [
+        null,
+        204.061
+    ],
+    "petasio": [
+        null,
+        204.061
+    ],
+    "insum": [
+        null,
+        204.061
+    ],
+    "lanterna": [
+        null,
+        204.061
+    ],
+    "abigo": [
+        null,
+        204.061
+    ],
+    "ambulo": [
+        "V",
+        204.061
+    ],
+    "tres": [
+        "M",
+        204.061
+    ],
+    "flagrum": [
+        null,
+        204.061
+    ],
+    "caedo": [
+        null,
+        204.061
+    ],
+    "hospitium": [
+        "N",
+        204.061
+    ],
+    "publicitus": [
+        null,
+        204.061
+    ],
+    "cogo": [
+        null,
+        204.061
+    ],
+    "ingratia": [
+        null,
+        204.061
+    ],
+    "duro": [
+        "A",
+        204.061
+    ],
+    "quiesco": [
+        null,
+        204.061
+    ],
+    "expers": [
+        "A",
+        204.061
+    ],
+    "onus": [
+        null,
+        204.061
+    ],
+    "queror": [
+        "V",
+        204.061
+    ],
+    "studeo": [
+        "V",
+        204.061
+    ],
+    "allego1": [
+        null,
+        204.061
+    ],
+    "vulgo2": [
+        "D",
+        204.061
+    ],
+    "opinor": [
+        "V",
+        204.061
+    ],
+    "expugno": [
+        null,
+        204.061
+    ],
+    "populo": [
+        "N",
+        204.061
+    ],
+    "regnum": [
+        "N",
+        204.061
+    ],
+    "praemitto": [
+        null,
+        204.061
+    ],
+    "publica": [
+        "A",
+        204.061
+    ],
+    "meditor": [
+        null,
+        204.061
+    ],
+    "principium": [
+        "N",
+        204.061
+    ],
+    "tango": [
+        null,
+        204.061
+    ],
+    "princeps": [
+        "N",
+        204.061
+    ],
+    "aliter": [
+        "D",
+        204.061
+    ],
+    "superbus": [
+        "A",
+        204.061
+    ],
+    "increpo": [
+        null,
+        204.061
+    ],
+    "properus": [
+        null,
+        204.061
+    ],
+    "perfero": [
+        null,
+        204.061
+    ],
+    "educo1": [
+        null,
+        204.061
+    ],
+    "copia1": [
+        "N",
+        204.061
+    ],
+    "dispertior": [
+        null,
+        204.061
+    ],
+    "ordino": [
+        null,
+        204.061
+    ],
+    "instruo": [
+        null,
+        204.061
+    ],
+    "medius": [
+        "A",
+        204.061
+    ],
+    "extro": [
+        null,
+        204.061
+    ],
+    "proelio": [
+        "N",
+        204.061
+    ],
+    "dedo": [
+        null,
+        204.061
+    ],
+    "clamor": [
+        "N",
+        204.061
+    ],
+    "suscipio": [
+        "V",
+        204.061
+    ],
+    "horto": [
+        null,
+        204.061
+    ],
+    "frango": [
+        null,
+        204.061
+    ],
+    "cado": [
+        "N",
+        204.061
+    ],
+    "denique": [
+        "D",
+        204.061
+    ],
+    "statim": [
+        "D",
+        204.061
+    ],
+    "equito": [
+        null,
+        204.061
+    ],
+    "induco": [
+        null,
+        204.061
+    ],
+    "paro1": [
+        null,
+        204.061
+    ],
+    "impetus": [
+        "N",
+        204.061
+    ],
+    "perduellis": [
+        null,
+        204.061
+    ],
+    "addo": [
+        null,
+        204.061
+    ],
+    "impransus": [
+        null,
+        204.061
+    ],
+    "proelium": [
+        "N",
+        204.061
+    ],
+    "intervenio": [
+        null,
+        204.061
+    ],
+    "ignosco": [
+        null,
+        204.061
+    ],
+    "divino": [
+        null,
+        204.061
+    ],
+    "potito": [
+        null,
+        204.061
+    ],
+    "obvius": [
+        null,
+        204.061
+    ],
+    "admodum": [
+        null,
+        204.061
+    ],
+    "pello": [
+        null,
+        204.061
+    ],
+    "nocturnus": [
+        "N",
+        204.061
+    ],
+    "commoveo": [
+        null,
+        204.061
+    ],
+    "perpes": [
+        null,
+        204.061
+    ],
+    "invito": [
+        "A",
+        204.061
+    ],
+    "furcifer": [
+        null,
+        204.061
+    ],
+    "intereo": [
+        null,
+        204.061
+    ],
+    "ausculto": [
+        null,
+        204.061
+    ],
+    "diu": [
+        "D",
+        204.061
+    ],
+    "quattuor": [
+        "M",
+        204.061
+    ],
+    "nudus": [
+        "A",
+        204.061
+    ],
+    "em": [
+        null,
+        204.061
+    ],
+    "vapulo": [
+        null,
+        204.061
+    ],
+    "apage": [
+        null,
+        204.061
+    ],
+    "nequiter": [
+        null,
+        204.061
+    ],
+    "formo": [
+        null,
+        204.061
+    ],
+    "denuo": [
+        null,
+        204.061
+    ],
+    "ulter": [
+        null,
+        204.061
+    ],
+    "quidam": [
+        "P",
+        204.061
+    ],
+    "numnam": [
+        null,
+        204.061
+    ],
+    "gestio2": [
+        null,
+        204.061
+    ],
+    "arcesso": [
+        null,
+        204.061
+    ],
+    "jumentum": [
+        null,
+        204.061
+    ],
+    "veho": [
+        null,
+        204.061
+    ],
+    "vix": [
+        "D",
+        204.061
+    ],
+    "existimo": [
+        null,
+        204.061
+    ],
+    "uapulem": [
+        null,
+        204.061
+    ],
+    "confidenter": [
+        null,
+        204.061
+    ],
+    "colloquium": [
+        null,
+        204.061
+    ],
+    "collibet": [
+        null,
+        204.061
+    ],
+    "lingua": [
+        "N",
+        204.061
+    ],
+    "pergi": [
+        null,
+        204.061
+    ],
+    "praedico1": [
+        null,
+        204.061
+    ],
+    "dauo": [
+        null,
+        204.061
+    ],
+    "consuo": [
+        null,
+        204.061
+    ],
+    "tunica": [
+        "N",
+        204.061
+    ],
+    "pes": [
+        "N",
+        204.061
+    ],
+    "uapula": [
+        null,
+        204.061
+    ],
+    "cujus1": [
+        null,
+        204.061
+    ],
+    "carnifex": [
+        null,
+        204.061
+    ],
+    "istoc": [
+        "D",
+        204.061
+    ],
+    "uapulabis": [
+        null,
+        204.061
+    ],
+    "mutio": [
+        null,
+        204.061
+    ],
+    "utinam": [
+        "D",
+        204.061
+    ],
+    "parumper": [
+        null,
+        204.061
+    ],
+    "foedus1": [
+        "N",
+        204.061
+    ],
+    "utut": [
+        null,
+        204.061
+    ],
+    "vitium": [
+        "N",
+        204.061
+    ],
+    "adveho": [
+        null,
+        204.061
+    ],
+    "mala": [
+        "N",
+        204.061
+    ],
+    "quadrigae": [
+        "N",
+        204.061
+    ],
+    "carnufex": [
+        null,
+        204.061
+    ],
+    "unde": [
+        "D",
+        204.061
+    ],
+    "tabernaculum": [
+        "N",
+        204.061
+    ],
+    "ingredior": [
+        "V",
+        204.061
+    ],
+    "merus": [
+        null,
+        204.061
+    ],
+    "interrogo": [
+        null,
+        204.061
+    ],
+    "vestio": [
+        null,
+        204.061
+    ],
+    "vel": [
+        "D",
+        204.061
+    ],
+    "tergum": [
+        "N",
+        204.061
+    ],
+    "obliviscor": [
+        null,
+        204.061
+    ],
+    "amoveo": [
+        null,
+        204.061
+    ],
+    "tranquillus": [
+        null,
+        204.061
+    ],
+    "confero": [
+        null,
+        204.061
+    ],
+    "decimus1": [
+        "A",
+        204.061
+    ],
+    "honor": [
+        "N",
+        204.061
+    ],
+    "fetus2": [
+        "N",
+        204.061
+    ],
+    "absolvo": [
+        null,
+        204.061
+    ],
+    "culpa": [
+        "N",
+        204.061
+    ],
+    "subeo": [
+        null,
+        204.061
+    ],
+    "palpo1": [
+        null,
+        204.061
+    ],
+    "femina": [
+        "N",
+        204.061
+    ],
+    "diligo": [
+        null,
+        204.061
+    ],
+    "locus": [
+        "N",
+        204.061
+    ],
+    "sub-parasitor": [
+        "R",
+        204.061
+    ],
+    "ecflictim": [
+        null,
+        204.061
+    ],
+    "paene": [
+        "D",
+        204.061
+    ],
+    "irasco": [
+        null,
+        204.061
+    ],
+    "timidus": [
+        "A",
+        204.061
+    ],
+    "praeverto": [
+        null,
+        204.061
+    ],
+    "concinno": [
+        null,
+        204.061
+    ],
+    "corrumpo": [
+        null,
+        204.061
+    ],
+    "libet": [
+        "V",
+        204.061
+    ],
+    "lucesco": [
+        null,
+        204.061
+    ],
+    "condignus": [
+        null,
+        204.061
+    ],
+    "qualis": [
+        "D",
+        204.061
+    ],
+    "amor": [
+        "N",
+        204.061
+    ],
+    "eo1.": [
+        "D",
+        204.061
+    ],
+    "eremus": [
+        null,
+        204.061
+    ],
+    "promereo": [
+        null,
+        204.061
+    ],
+    "opto": [
+        null,
+        204.061
+    ],
+    "bibo1": [
+        null,
+        204.061
+    ],
+    "decies": [
+        "D",
+        204.061
+    ],
+    "miseria": [
+        null,
+        204.061
+    ],
+    "nihilum": [
+        null,
+        204.061
+    ],
+    "lac": [
+        null,
+        204.061
+    ],
+    "nugae": [
+        "N",
+        204.061
+    ],
+    "offendo1": [
+        null,
+        204.061
+    ],
+    "gens": [
+        "N",
+        204.061
+    ],
+    "ex-quaero": [
+        "R",
+        204.061
+    ],
+    "vito": [
+        null,
+        204.061
+    ],
+    "comparo1": [
+        null,
+        204.061
+    ],
+    "aeger": [
+        "A",
+        204.061
+    ],
+    "laus": [
+        null,
+        204.061
+    ],
+    "pareo": [
+        null,
+        204.061
+    ],
+    "expectatum": [
+        null,
+        204.061
+    ],
+    "tento": [
+        null,
+        204.061
+    ],
+    "navo": [
+        null,
+        204.061
+    ],
+    "praebeo": [
+        null,
+        204.061
+    ],
+    "officium": [
+        "N",
+        204.061
+    ],
+    "spero": [
+        "V",
+        204.061
+    ],
+    "thebis": [
+        null,
+        204.061
+    ],
+    "exspecto": [
+        null,
+        204.061
+    ],
+    "plenus": [
+        null,
+        204.061
+    ],
+    "periclitor": [
+        null,
+        204.061
+    ],
+    "assentor": [
+        null,
+        204.061
+    ],
+    "prehendo": [
+        null,
+        204.061
+    ],
+    "osculum": [
+        null,
+        204.061
+    ],
+    "salutauisti": [
+        null,
+        204.061
+    ],
+    "salvo": [
+        "A",
+        204.061
+    ],
+    "cenauisti": [
+        null,
+        204.061
+    ],
+    "diluculum": [
+        null,
+        204.061
+    ],
+    "asto": [
+        null,
+        204.061
+    ],
+    "audiuisti": [
+        null,
+        204.061
+    ],
+    "insanio": [
+        null,
+        204.061
+    ],
+    "aurea": [
+        "A",
+        204.061
+    ],
+    "inspicio": [
+        null,
+        204.061
+    ],
+    "cerritus": [
+        null,
+        204.061
+    ],
+    "pala": [
+        null,
+        204.061
+    ],
+    "agedum": [
+        "E",
+        204.061
+    ],
+    "exsolvo": [
+        null,
+        204.061
+    ],
+    "accumbo": [
+        null,
+        204.061
+    ],
+    "porrus": [
+        null,
+        204.061
+    ],
+    "propter": [
+        "R",
+        204.061
+    ],
+    "pudor": [
+        "N",
+        204.061
+    ],
+    "impudicitia": [
+        null,
+        204.061
+    ],
+    "testo": [
+        null,
+        204.061
+    ],
+    "audacter": [
+        "D",
+        204.061
+    ],
+    "inquisitus2": [
+        null,
+        204.061
+    ],
+    "ad-simulo": [
+        "R",
+        204.061
+    ],
+    "nequeo": [
+        null,
+        204.061
+    ],
+    "dedecor": [
+        null,
+        204.061
+    ],
+    "desero2": [
+        null,
+        204.061
+    ],
+    "inimicus": [
+        null,
+        204.061
+    ],
+    "purgo": [
+        null,
+        204.061
+    ],
+    "chordus1": [
+        null,
+        204.061
+    ],
+    "comito": [
+        null,
+        204.061
+    ],
+    "amicus1": [
+        "N",
+        204.061
+    ],
+    "vasum": [
+        "N",
+        204.061
+    ],
+    "adorno": [
+        null,
+        204.061
+    ],
+    "blepharonem": [
+        null,
+        204.061
+    ],
+    "prandeo": [
+        null,
+        204.061
+    ],
+    "traho": [
+        null,
+        204.061
+    ],
+    "volup": [
+        null,
+        204.061
+    ],
+    "vultus": [
+        "N",
+        204.061
+    ],
+    "sacrufico": [
+        null,
+        204.061
+    ],
+    "minito": [
+        null,
+        204.061
+    ],
+    "sursum": [
+        "D",
+        204.061
+    ],
+    "quaerito": [
+        null,
+        204.061
+    ],
+    "macto": [
+        null,
+        204.061
+    ],
+    "prisc": [
+        null,
+        204.061
+    ],
+    "gl": [
+        null,
+        204.061
+    ],
+    "sepelio": [
+        null,
+        204.061
+    ],
+    "eneco": [
+        null,
+        204.061
+    ],
+    "invoco": [
+        null,
+        204.061
+    ],
+    "sono": [
+        "N",
+        204.061
+    ],
+    "tono": [
+        null,
+        204.061
+    ],
+    "exclamo": [
+        null,
+        204.061
+    ],
+    "terror": [
+        "N",
+        204.061
+    ],
+    "confulgeo": [
+        null,
+        204.061
+    ],
+    "horror": [
+        "N",
+        204.061
+    ],
+    "senex": [
+        "A",
+        204.061
+    ],
+    "teresiam": [
+        null,
+        204.061
+    ],
+    "thos": [
+        null,
+        204.061
+    ],
+    "t.": [
+        null,
+        102.03
+    ],
+    "maccus": [
+        null,
+        102.03
+    ],
+    "persona": [
+        null,
+        102.03
+    ],
+    "matrona1": [
+        "N",
+        102.03
+    ],
+    "dux": [
+        "N",
+        102.03
+    ],
+    "facies": [
+        "N",
+        102.03
+    ],
+    "verro": [
+        null,
+        102.03
+    ],
+    "alcmenam": [
+        null,
+        102.03
+    ],
+    "alcmena": [
+        null,
+        102.03
+    ],
+    "jurgium": [
+        null,
+        102.03
+    ],
+    "tumultus": [
+        "N",
+        102.03
+    ],
+    "aether": [
+        "N",
+        102.03
+    ],
+    "confiteor": [
+        null,
+        102.03
+    ],
+    "alcumenas": [
+        null,
+        102.03
+    ],
+    "utauit": [
+        null,
+        102.03
+    ],
+    "rus": [
+        "N",
+        102.03
+    ],
+    "subseruit": [
+        null,
+        102.03
+    ],
+    "urbas": [
+        null,
+        102.03
+    ],
+    "invicem": [
+        "D",
+        102.03
+    ],
+    "apto": [
+        null,
+        102.03
+    ],
+    "ter": [
+        "D",
+        102.03
+    ],
+    "mnem": [
+        null,
+        102.03
+    ],
+    "enitor": [
+        null,
+        102.03
+    ],
+    "prologus": [
+        null,
+        102.03
+    ],
+    "mercimonium": [
+        null,
+        102.03
+    ],
+    "emo": [
+        "V",
+        102.03
+    ],
+    "vendo": [
+        "V",
+        102.03
+    ],
+    "adjuvo": [
+        null,
+        102.03
+    ],
+    "peregri": [
+        null,
+        102.03
+    ],
+    "amplus": [
+        null,
+        102.03
+    ],
+    "aucto": [
+        null,
+        102.03
+    ],
+    "incipio": [
+        null,
+        102.03
+    ],
+    "incepto": [
+        "N",
+        102.03
+    ],
+    "uostros": [
+        null,
+        102.03
+    ],
+    "praesum": [
+        null,
+        102.03
+    ],
+    "ad-probo": [
+        "R",
+        102.03
+    ],
+    "annitor": [
+        null,
+        102.03
+    ],
+    "sileo": [
+        null,
+        102.03
+    ],
+    "mercurio": [
+        null,
+        102.03
+    ],
+    "precarius": [
+        null,
+        102.03
+    ],
+    "lenis1": [
+        "A",
+        102.03
+    ],
+    "etenim": [
+        "C",
+        102.03
+    ],
+    "praetimeo": [
+        null,
+        102.03
+    ],
+    "contagio": [
+        "N",
+        102.03
+    ],
+    "~": [
+        null,
+        102.03
+    ],
+    "orator": [
+        null,
+        102.03
+    ],
+    "impetro": [
+        null,
+        102.03
+    ],
+    "insipiens": [
+        null,
+        102.03
+    ],
+    "debeo": [
+        "V",
+        102.03
+    ],
+    "memorem,ut": [
+        "V",
+        102.03
+    ],
+    "neptunum": [
+        null,
+        102.03
+    ],
+    "victoria": [
+        "N",
+        102.03
+    ],
+    "martes": [
+        null,
+        102.03
+    ],
+    "bellonam": [
+        null,
+        102.03
+    ],
+    "commemoro": [
+        null,
+        102.03
+    ],
+    "regnator": [
+        null,
+        102.03
+    ],
+    "architectus": [
+        null,
+        102.03
+    ],
+    "meo,~": [
+        "A",
+        102.03
+    ],
+    "exprobro": [
+        null,
+        102.03
+    ],
+    "gratus": [
+        "A",
+        102.03
+    ],
+    "frons2": [
+        null,
+        102.03
+    ],
+    "commutauero": [
+        null,
+        102.03
+    ],
+    "vorsus": [
+        "T",
+        102.03
+    ],
+    "commisceo": [
+        null,
+        102.03
+    ],
+    "pars": [
+        "N",
+        102.03
+    ],
+    "subsellium": [
+        null,
+        102.03
+    ],
+    "fauitores": [
+        null,
+        102.03
+    ],
+    "pignus": [
+        null,
+        102.03
+    ],
+    "toga": [
+        "N",
+        102.03
+    ],
+    "ambissint": [
+        null,
+        102.03
+    ],
+    "palma1": [
+        null,
+        102.03
+    ],
+    "artifex": [
+        "N",
+        102.03
+    ],
+    "scribo": [
+        null,
+        102.03
+    ],
+    "littera": [
+        "N",
+        102.03
+    ],
+    "ambissit": [
+        null,
+        102.03
+    ],
+    "internuntius": [
+        null,
+        102.03
+    ],
+    "aedilis": [
+        "N",
+        102.03
+    ],
+    "perfidiosus": [
+        null,
+        102.03
+    ],
+    "sirempse": [
+        null,
+        102.03
+    ],
+    "magistro": [
+        "N",
+        102.03
+    ],
+    "ambiuerit": [
+        null,
+        102.03
+    ],
+    "ambitio": [
+        "N",
+        102.03
+    ],
+    "perfidia": [
+        "N",
+        102.03
+    ],
+    "lex": [
+        "N",
+        102.03
+    ],
+    "amb-eo1": [
+        null,
+        102.03
+    ],
+    "fauitoribus": [
+        null,
+        102.03
+    ],
+    "sat": [
+        "D",
+        102.03
+    ],
+    "fauitorum": [
+        null,
+        102.03
+    ],
+    "plaudo": [
+        null,
+        102.03
+    ],
+    "ornamentum": [
+        null,
+        102.03
+    ],
+    "corius": [
+        null,
+        102.03
+    ],
+    "quapropter": [
+        "D",
+        102.03
+    ],
+    "adnato": [
+        null,
+        102.03
+    ],
+    "proscaenium": [
+        null,
+        102.03
+    ],
+    "inuocarunt": [
+        null,
+        102.03
+    ],
+    "thebae": [
+        "N",
+        102.03
+    ],
+    "habito": [
+        null,
+        102.03
+    ],
+    "argis": [
+        null,
+        102.03
+    ],
+    "argo": [
+        "N",
+        102.03
+    ],
+    "electrus1": [
+        null,
+        102.03
+    ],
+    "filia": [
+        "N",
+        102.03
+    ],
+    "amator": [
+        "N",
+        102.03
+    ],
+    "con-placeo": [
+        "D",
+        102.03
+    ],
+    "adsimulauit": [
+        null,
+        102.03
+    ],
+    "seruili": [
+        null,
+        102.03
+    ],
+    "schema": [
+        null,
+        102.03
+    ],
+    "vetus": [
+        "A",
+        102.03
+    ],
+    "uersipellem": [
+        null,
+        102.03
+    ],
+    "praeseruire": [
+        null,
+        102.03
+    ],
+    "verso": [
+        null,
+        102.03
+    ],
+    "conseruom": [
+        null,
+        102.03
+    ],
+    "cupio": [
+        "V",
+        102.03
+    ],
+    "fugo": [
+        null,
+        102.03
+    ],
+    "inter-nosco": [
+        "R",
+        102.03
+    ],
+    "pinnula": [
+        null,
+        102.03
+    ],
+    "torulus": [
+        null,
+        102.03
+    ],
+    "pretium": [
+        "N",
+        102.03
+    ],
+    "i.i": [
+        "V",
+        102.03
+    ],
+    "juventus": [
+        null,
+        102.03
+    ],
+    "carcer": [
+        "N",
+        102.03
+    ],
+    "compingo1": [
+        null,
+        102.03
+    ],
+    "creo1": [
+        null,
+        102.03
+    ],
+    "promptarium": [
+        null,
+        102.03
+    ],
+    "cella": [
+        "N",
+        102.03
+    ],
+    "depromo": [
+        null,
+        102.03
+    ],
+    "deputo": [
+        null,
+        102.03
+    ],
+    "incus": [
+        null,
+        102.03
+    ],
+    "octo": [
+        "M",
+        102.03
+    ],
+    "immodestia": [
+        null,
+        102.03
+    ],
+    "excito": [
+        null,
+        102.03
+    ],
+    "lucus1": [
+        "N",
+        102.03
+    ],
+    "opulentus": [
+        null,
+        102.03
+    ],
+    "seruitus": [
+        null,
+        102.03
+    ],
+    "assiduus2": [
+        null,
+        102.03
+    ],
+    "accido1": [
+        null,
+        102.03
+    ],
+    "reputo": [
+        "V",
+        102.03
+    ],
+    "seruitute": [
+        null,
+        102.03
+    ],
+    "seruitutem": [
+        null,
+        102.03
+    ],
+    "potiuit": [
+        null,
+        102.03
+    ],
+    "seruitutis": [
+        null,
+        102.03
+    ],
+    "numero1": [
+        "N",
+        102.03
+    ],
+    "refero": [
+        null,
+        102.03
+    ],
+    "occillo": [
+        null,
+        102.03
+    ],
+    "ingratus": [
+        null,
+        102.03
+    ],
+    "potior": [
+        null,
+        102.03
+    ],
+    "reueniunt": [
+        null,
+        102.03
+    ],
+    "bellum": [
+        "A",
+        102.03
+    ],
+    "exstinguo": [
+        null,
+        102.03
+    ],
+    "interneco": [
+        null,
+        102.03
+    ],
+    "acerbus": [
+        null,
+        102.03
+    ],
+    "ob-jacio": [
+        "R",
+        102.03
+    ],
+    "funero": [
+        null,
+        102.03
+    ],
+    "miles": [
+        "N",
+        102.03
+    ],
+    "praeda": [
+        "N",
+        102.03
+    ],
+    "adoria": [
+        null,
+        102.03
+    ],
+    "creoni": [
+        null,
+        102.03
+    ],
+    "stabiliuit": [
+        null,
+        102.03
+    ],
+    "sua": [
+        "A",
+        102.03
+    ],
+    "aduenero": [
+        null,
+        102.03
+    ],
+    "simulo": [
+        null,
+        102.03
+    ],
+    "deligo1": [
+        null,
+        102.03
+    ],
+    "prima": [
+        "A",
+        102.03
+    ],
+    "sententia": [
+        "N",
+        102.03
+    ],
+    "rapio": [
+        null,
+        102.03
+    ],
+    "raptor": [
+        null,
+        102.03
+    ],
+    "trado": [
+        "V",
+        102.03
+    ],
+    "asporto": [
+        null,
+        102.03
+    ],
+    "reduco": [
+        null,
+        102.03
+    ],
+    "argiuos": [
+        null,
+        102.03
+    ],
+    "otium": [
+        "N",
+        102.03
+    ],
+    "summum": [
+        "A",
+        102.03
+    ],
+    "oppugno1": [
+        null,
+        102.03
+    ],
+    "itero1": [
+        null,
+        102.03
+    ],
+    "magnanimus": [
+        null,
+        102.03
+    ],
+    "fretus1": [
+        "A",
+        102.03
+    ],
+    "ferociter": [
+        null,
+        102.03
+    ],
+    "finis": [
+        "N",
+        102.03
+    ],
+    "deduco": [
+        null,
+        102.03
+    ],
+    "castra": [
+        "N",
+        102.03
+    ],
+    "produco": [
+        null,
+        102.03
+    ],
+    "teloboae": [
+        null,
+        102.03
+    ],
+    "armus": [
+        null,
+        102.03
+    ],
+    "praeditus": [
+        null,
+        102.03
+    ],
+    "turba": [
+        "N",
+        102.03
+    ],
+    "colloquontur": [
+        null,
+        102.03
+    ],
+    "aro": [
+        null,
+        102.03
+    ],
+    "focus": [
+        null,
+        102.03
+    ],
+    "tuba": [
+        "N",
+        102.03
+    ],
+    "occano": [
+        null,
+        102.03
+    ],
+    "consono": [
+        null,
+        102.03
+    ],
+    "effero1": [
+        null,
+        102.03
+    ],
+    "illinc": [
+        "D",
+        102.03
+    ],
+    "ferrum": [
+        "N",
+        102.03
+    ],
+    "boo": [
+        null,
+        102.03
+    ],
+    "fremo": [
+        null,
+        102.03
+    ],
+    "spiritus": [
+        "N",
+        102.03
+    ],
+    "anhelitus": [
+        null,
+        102.03
+    ],
+    "nebula": [
+        "N",
+        102.03
+    ],
+    "consto": [
+        null,
+        102.03
+    ],
+    "vulnus": [
+        "N",
+        102.03
+    ],
+    "ingruo": [
+        null,
+        102.03
+    ],
+    "ferox": [
+        "A",
+        102.03
+    ],
+    "~fugam": [
+        null,
+        102.03
+    ],
+    "conuortitur": [
+        null,
+        102.03
+    ],
+    "recedo": [
+        null,
+        102.03
+    ],
+    "omitto": [
+        "V",
+        102.03
+    ],
+    "demigro": [
+        null,
+        102.03
+    ],
+    "obtineo": [
+        null,
+        102.03
+    ],
+    "involo": [
+        null,
+        102.03
+    ],
+    "alacer": [
+        null,
+        102.03
+    ],
+    "foedo": [
+        null,
+        102.03
+    ],
+    "protero": [
+        null,
+        102.03
+    ],
+    "adhuc": [
+        "D",
+        102.03
+    ],
+    "perperus": [
+        null,
+        102.03
+    ],
+    "penetro": [
+        null,
+        102.03
+    ],
+    "fuga": [
+        "N",
+        102.03
+    ],
+    "uortentibus": [
+        null,
+        102.03
+    ],
+    "obtruncauit": [
+        null,
+        102.03
+    ],
+    "vesperus": [
+        null,
+        102.03
+    ],
+    "commeo": [
+        null,
+        102.03
+    ],
+    "tandem": [
+        "D",
+        102.03
+    ],
+    "dis-redimo": [
+        "N",
+        102.03
+    ],
+    "postridie": [
+        "D",
+        102.03
+    ],
+    "castro": [
+        null,
+        102.03
+    ],
+    "fleo": [
+        null,
+        102.03
+    ],
+    "velo": [
+        null,
+        102.03
+    ],
+    "pecco": [
+        null,
+        102.03
+    ],
+    "liber1": [
+        "N",
+        102.03
+    ],
+    "dicio": [
+        null,
+        102.03
+    ],
+    "cunctus": [
+        null,
+        102.03
+    ],
+    "ex-equio": [
+        "R",
+        102.03
+    ],
+    "capesso": [
+        null,
+        102.03
+    ],
+    "attat": [
+        null,
+        102.03
+    ],
+    "imago": [
+        "N",
+        102.03
+    ],
+    "eludo": [
+        null,
+        102.03
+    ],
+    "callidus": [
+        null,
+        102.03
+    ],
+    "astutus": [
+        null,
+        102.03
+    ],
+    "malitia": [
+        null,
+        102.03
+    ],
+    "aspecto": [
+        null,
+        102.03
+    ],
+    "obseruabo": [
+        null,
+        102.03
+    ],
+    "obdormiuisse": [
+        null,
+        102.03
+    ],
+    "septentriones": [
+        null,
+        102.03
+    ],
+    "caelo": [
+        "N",
+        102.03
+    ],
+    "luno": [
+        null,
+        102.03
+    ],
+    "muto1": [
+        null,
+        102.03
+    ],
+    "iugulae": [
+        null,
+        102.03
+    ],
+    "uesperugo": [
+        null,
+        102.03
+    ],
+    "uergiliae": [
+        null,
+        102.03
+    ],
+    "pendeo": [
+        null,
+        102.03
+    ],
+    "longitudi": [
+        null,
+        102.03
+    ],
+    "appotus": [
+        null,
+        102.03
+    ],
+    "plusculus": [
+        null,
+        102.03
+    ],
+    "scortator": [
+        null,
+        102.03
+    ],
+    "solus1": [
+        "N",
+        102.03
+    ],
+    "invitus": [
+        "A",
+        102.03
+    ],
+    "scortum": [
+        null,
+        102.03
+    ],
+    "conduco": [
+        null,
+        102.03
+    ],
+    "sapienter": [
+        null,
+        102.03
+    ],
+    "meticulosus": [
+        null,
+        102.03
+    ],
+    "umerus": [
+        null,
+        102.03
+    ],
+    "pallium": [
+        null,
+        102.03
+    ],
+    "detego": [
+        null,
+        102.03
+    ],
+    "dens": [
+        null,
+        102.03
+    ],
+    "prurio": [
+        null,
+        102.03
+    ],
+    "pugneus": [
+        null,
+        102.03
+    ],
+    "misericors": [
+        "A",
+        102.03
+    ],
+    "concipio": [
+        null,
+        102.03
+    ],
+    "venter": [
+        "N",
+        102.03
+    ],
+    "pridem": [
+        "D",
+        102.03
+    ],
+    "soporo": [
+        null,
+        102.03
+    ],
+    "colloco": [
+        null,
+        102.03
+    ],
+    "commuto": [
+        null,
+        102.03
+    ],
+    "quintus1": [
+        "A",
+        102.03
+    ],
+    "soporus": [
+        null,
+        102.03
+    ],
+    "numerus": [
+        "N",
+        102.03
+    ],
+    "augeo": [
+        null,
+        102.03
+    ],
+    "cingo": [
+        null,
+        102.03
+    ],
+    "pro-eo1": [
+        "R",
+        102.03
+    ],
+    "cena": [
+        "N",
+        102.03
+    ],
+    "largior": [
+        null,
+        102.03
+    ],
+    "ex-surio": [
+        "R",
+        102.03
+    ],
+    "pondus": [
+        "N",
+        102.03
+    ],
+    "pondero": [
+        null,
+        102.03
+    ],
+    "tractim": [
+        null,
+        102.03
+    ],
+    "peruigilaui": [
+        null,
+        102.03
+    ],
+    "interpolo": [
+        null,
+        102.03
+    ],
+    "fingo": [
+        null,
+        102.03
+    ],
+    "murena": [
+        "N",
+        102.03
+    ],
+    "cogito": [
+        null,
+        102.03
+    ],
+    "oleo1": [
+        "N",
+        102.03
+    ],
+    "oboleo": [
+        null,
+        102.03
+    ],
+    "a-sum1": [
+        "E",
+        102.03
+    ],
+    "superstitiosus": [
+        null,
+        102.03
+    ],
+    "exercituru's": [
+        null,
+        102.03
+    ],
+    "paries": [
+        null,
+        102.03
+    ],
+    "auro": [
+        "N",
+        102.03
+    ],
+    "advolo": [
+        null,
+        102.03
+    ],
+    "infelix": [
+        "A",
+        102.03
+    ],
+    "alo": [
+        null,
+        102.03
+    ],
+    "inter-vello": [
+        "R",
+        102.03
+    ],
+    "volucris": [
+        "N",
+        102.03
+    ],
+    "onero": [
+        null,
+        102.03
+    ],
+    "lassus": [
+        null,
+        102.03
+    ],
+    "nauseo": [
+        null,
+        102.03
+    ],
+    "inanis": [
+        null,
+        102.03
+    ],
+    "nescioquis": [
+        null,
+        102.03
+    ],
+    "aurum": [
+        "N",
+        102.03
+    ],
+    "vicis": [
+        "N",
+        102.03
+    ],
+    "torpeo": [
+        null,
+        102.03
+    ],
+    "formido2": [
+        null,
+        102.03
+    ],
+    "ilicet": [
+        null,
+        102.03
+    ],
+    "uolcanum": [
+        null,
+        102.03
+    ],
+    "cornus1": [
+        null,
+        102.03
+    ],
+    "concludo": [
+        null,
+        102.03
+    ],
+    "utcumque": [
+        null,
+        102.03
+    ],
+    "ad-servo": [
+        "R",
+        102.03
+    ],
+    "argutor": [
+        null,
+        102.03
+    ],
+    "creo": [
+        null,
+        102.03
+    ],
+    "quonam": [
+        "P",
+        102.03
+    ],
+    "fustis": [
+        null,
+        102.03
+    ],
+    "thebanis": [
+        null,
+        102.03
+    ],
+    "compono": [
+        null,
+        102.03
+    ],
+    "audacia": [
+        "N",
+        102.03
+    ],
+    "colume": [
+        null,
+        102.03
+    ],
+    "arbitrarius": [
+        null,
+        102.03
+    ],
+    "parus1": [
+        null,
+        102.03
+    ],
+    "praeut": [
+        null,
+        102.03
+    ],
+    "clamo": [
+        "V",
+        102.03
+    ],
+    "uaniloquo's": [
+        null,
+        102.03
+    ],
+    "uerberem": [
+        null,
+        102.03
+    ],
+    "peccaueram": [
+        null,
+        102.03
+    ],
+    "~socium": [
+        null,
+        102.03
+    ],
+    "indutiae": [
+        null,
+        102.03
+    ],
+    "noceo": [
+        null,
+        102.03
+    ],
+    "reticeo": [
+        null,
+        102.03
+    ],
+    "vivus": [
+        "A",
+        102.03
+    ],
+    "alieno": [
+        "A",
+        102.03
+    ],
+    "dubito": [
+        null,
+        102.03
+    ],
+    "ementitu's": [
+        null,
+        102.03
+    ],
+    "solvo": [
+        null,
+        102.03
+    ],
+    "regno": [
+        "N",
+        102.03
+    ],
+    "teloboarum": [
+        null,
+        102.03
+    ],
+    "optruncauit": [
+        null,
+        102.03
+    ],
+    "memoriter": [
+        null,
+        102.03
+    ],
+    "ex-loquor": [
+        "R",
+        102.03
+    ],
+    "sol": [
+        "N",
+        102.03
+    ],
+    "cadus": [
+        null,
+        102.03
+    ],
+    "impleo": [
+        null,
+        102.03
+    ],
+    "ebibo": [
+        null,
+        102.03
+    ],
+    "lateo": [
+        null,
+        102.03
+    ],
+    "injuro": [
+        null,
+        102.03
+    ],
+    "ignobilis": [
+        null,
+        102.03
+    ],
+    "contemplo": [
+        null,
+        102.03
+    ],
+    "sumsaepe": [
+        null,
+        102.03
+    ],
+    "speculum": [
+        null,
+        102.03
+    ],
+    "inspexinimis": [
+        null,
+        102.03
+    ],
+    "petasus": [
+        null,
+        102.03
+    ],
+    "consimilis": [
+        null,
+        102.03
+    ],
+    "sura1": [
+        "N",
+        102.03
+    ],
+    "tondeo": [
+        null,
+        102.03
+    ],
+    "nasus1": [
+        null,
+        102.03
+    ],
+    "labrum1": [
+        "N",
+        102.03
+    ],
+    "barba1": [
+        "N",
+        102.03
+    ],
+    "cicatricosus": [
+        null,
+        102.03
+    ],
+    "obtempero": [
+        null,
+        102.03
+    ],
+    "pulto1": [
+        null,
+        102.03
+    ],
+    "inscendo": [
+        null,
+        102.03
+    ],
+    "effugio": [
+        null,
+        102.03
+    ],
+    "lumbifragium": [
+        null,
+        102.03
+    ],
+    "possideo": [
+        "V",
+        102.03
+    ],
+    "rado": [
+        null,
+        102.03
+    ],
+    "caluos": [
+        null,
+        102.03
+    ],
+    "pilleus": [
+        null,
+        102.03
+    ],
+    "i.ii": [
+        "V",
+        102.03
+    ],
+    "prosper": [
+        null,
+        102.03
+    ],
+    "molestia": [
+        null,
+        102.03
+    ],
+    "amplexor": [
+        null,
+        102.03
+    ],
+    "error": [
+        "N",
+        102.03
+    ],
+    "dementia": [
+        "N",
+        102.03
+    ],
+    "satietas": [
+        null,
+        102.03
+    ],
+    "redigo": [
+        null,
+        102.03
+    ],
+    "turbo1": [
+        null,
+        102.03
+    ],
+    "concieo": [
+        null,
+        102.03
+    ],
+    "seditio": [
+        "N",
+        102.03
+    ],
+    "nasco": [
+        null,
+        102.03
+    ],
+    "semino": [
+        null,
+        102.03
+    ],
+    "septimus": [
+        "A",
+        102.03
+    ],
+    "aerumna": [
+        null,
+        102.03
+    ],
+    "rescisco": [
+        null,
+        102.03
+    ],
+    "oratio": [
+        "N",
+        102.03
+    ],
+    "subditiuos": [
+        null,
+        102.03
+    ],
+    "i.iii": [
+        "V",
+        102.03
+    ],
+    "imperco": [
+        null,
+        102.03
+    ],
+    "mensis": [
+        "N",
+        102.03
+    ],
+    "necesse": [
+        "A",
+        102.03
+    ],
+    "tollo": [
+        null,
+        102.03
+    ],
+    "dis-taedet": [
+        "N",
+        102.03
+    ],
+    "sycophanta": [
+        null,
+        102.03
+    ],
+    "obseruatote": [
+        null,
+        102.03
+    ],
+    "blandus": [
+        null,
+        102.03
+    ],
+    "mauellem": [
+        null,
+        102.03
+    ],
+    "concaleo": [
+        null,
+        102.03
+    ],
+    "hoci": [
+        null,
+        102.03
+    ],
+    "depereo": [
+        null,
+        102.03
+    ],
+    "curatio": [
+        null,
+        102.03
+    ],
+    "mutitio": [
+        null,
+        102.03
+    ],
+    "quoii": [
+        null,
+        102.03
+    ],
+    "scipio1": [
+        "N",
+        102.03
+    ],
+    "ah": [
+        null,
+        102.03
+    ],
+    "parasitatio": [
+        null,
+        102.03
+    ],
+    "surripio": [
+        null,
+        102.03
+    ],
+    "enarraui": [
+        null,
+        102.03
+    ],
+    "persentisco": [
+        null,
+        102.03
+    ],
+    "lacrimo": [
+        null,
+        102.03
+    ],
+    "potitauit": [
+        null,
+        102.03
+    ],
+    "condono": [
+        null,
+        102.03
+    ],
+    "saevus": [
+        null,
+        102.03
+    ],
+    "opinio": [
+        null,
+        102.03
+    ],
+    "in-lucesco": [
+        "R",
+        102.03
+    ],
+    "luceo": [
+        null,
+        102.03
+    ],
+    "candidus": [
+        null,
+        102.03
+    ],
+    "proximus": [
+        "A",
+        102.03
+    ],
+    "brevis": [
+        "A",
+        102.03
+    ],
+    "disparo": [
+        null,
+        102.03
+    ],
+    "ii.i": [
+        "P",
+        102.03
+    ],
+    "secundus1": [
+        "A",
+        102.03
+    ],
+    "subsequor": [
+        null,
+        102.03
+    ],
+    "eccere": [
+        null,
+        102.03
+    ],
+    "tuatim": [
+        null,
+        102.03
+    ],
+    "scelus": [
+        "N",
+        102.03
+    ],
+    "abscido": [
+        null,
+        102.03
+    ],
+    "deterreo": [
+        null,
+        102.03
+    ],
+    "improbus": [
+        "A",
+        102.03
+    ],
+    "ludus": [
+        "N",
+        102.03
+    ],
+    "maledico": [
+        null,
+        102.03
+    ],
+    "est.~": [
+        "V",
+        102.03
+    ],
+    "planus1": [
+        null,
+        102.03
+    ],
+    "dissero2": [
+        null,
+        102.03
+    ],
+    "uah": [
+        null,
+        102.03
+    ],
+    "pestis": [
+        "N",
+        102.03
+    ],
+    "neglego": [
+        null,
+        102.03
+    ],
+    "irrideo": [
+        null,
+        102.03
+    ],
+    "for": [
+        null,
+        102.03
+    ],
+    "vincio": [
+        null,
+        102.03
+    ],
+    "nammecum": [
+        null,
+        102.03
+    ],
+    "sedeo": [
+        "V",
+        102.03
+    ],
+    "edissertauit": [
+        null,
+        102.03
+    ],
+    "adueneram": [
+        null,
+        102.03
+    ],
+    "malum": [
+        "N",
+        102.03
+    ],
+    "objectus2": [
+        null,
+        102.03
+    ],
+    "fateor": [
+        null,
+        102.03
+    ],
+    "obtundo": [
+        null,
+        102.03
+    ],
+    "geminus": [
+        null,
+        102.03
+    ],
+    "quotiens": [
+        "D",
+        102.03
+    ],
+    "obdormiuisti": [
+        null,
+        102.03
+    ],
+    "somniculosus": [
+        null,
+        102.03
+    ],
+    "blatio": [
+        null,
+        102.03
+    ],
+    "ii.ii": [
+        "P",
+        102.03
+    ],
+    "praequam": [
+        null,
+        102.03
+    ],
+    "molestus": [
+        "A",
+        102.03
+    ],
+    "maeror": [
+        "N",
+        102.03
+    ],
+    "como1": [
+        null,
+        102.03
+    ],
+    "incommodus": [
+        null,
+        102.03
+    ],
+    "obtingo": [
+        null,
+        102.03
+    ],
+    "potestas": [
+        "N",
+        102.03
+    ],
+    "repo": [
+        null,
+        102.03
+    ],
+    "beo": [
+        null,
+        102.03
+    ],
+    "compos": [
+        null,
+        102.03
+    ],
+    "revenio": [
+        null,
+        102.03
+    ],
+    "solacium": [
+        null,
+        102.03
+    ],
+    "offirmo": [
+        null,
+        102.03
+    ],
+    "merces1": [
+        "N",
+        102.03
+    ],
+    "clueo": [
+        null,
+        102.03
+    ],
+    "praemium": [
+        "N",
+        102.03
+    ],
+    "anteeo": [
+        null,
+        102.03
+    ],
+    "libertas": [
+        "N",
+        102.03
+    ],
+    "salus": [
+        "N",
+        102.03
+    ],
+    "penum": [
+        null,
+        102.03
+    ],
+    "exopto": [
+        null,
+        102.03
+    ],
+    "aduenturum": [
+        null,
+        102.03
+    ],
+    "praesertim": [
+        "D",
+        102.03
+    ],
+    "coitus2": [
+        null,
+        102.03
+    ],
+    "amica": [
+        "A",
+        102.03
+    ],
+    "reuortitur": [
+        null,
+        102.03
+    ],
+    "propero": [
+        null,
+        102.03
+    ],
+    "desidero": [
+        null,
+        102.03
+    ],
+    "prandium": [
+        null,
+        102.03
+    ],
+    "situla": [
+        null,
+        102.03
+    ],
+    "divinus": [
+        null,
+        102.03
+    ],
+    "puteo": [
+        null,
+        102.03
+    ],
+    "intertraho": [
+        null,
+        102.03
+    ],
+    "dijudico": [
+        null,
+        102.03
+    ],
+    "rumifero": [
+        null,
+        102.03
+    ],
+    "proba": [
+        "A",
+        102.03
+    ],
+    "ualuisti": [
+        null,
+        102.03
+    ],
+    "canis1": [
+        "N",
+        102.03
+    ],
+    "~grauidam": [
+        null,
+        102.03
+    ],
+    "deridiculus": [
+        null,
+        102.03
+    ],
+    "dedisco": [
+        null,
+        102.03
+    ],
+    "reuortimini": [
+        null,
+        102.03
+    ],
+    "commoro": [
+        null,
+        102.03
+    ],
+    "tempestas": [
+        "N",
+        102.03
+    ],
+    "contineo": [
+        "V",
+        102.03
+    ],
+    "lusor": [
+        null,
+        102.03
+    ],
+    "deliramentum": [
+        null,
+        102.03
+    ],
+    "paulisper": [
+        "D",
+        102.03
+    ],
+    "edormisco": [
+        null,
+        102.03
+    ],
+    "somnio": [
+        null,
+        102.03
+    ],
+    "defero": [
+        "V",
+        102.03
+    ],
+    "bacchae": [
+        null,
+        102.03
+    ],
+    "bacchor": [
+        null,
+        102.03
+    ],
+    "aduorsarier": [
+        null,
+        102.03
+    ],
+    "saepis": [
+        null,
+        102.03
+    ],
+    "resoluas": [
+        null,
+        102.03
+    ],
+    "plaga1": [
+        "N",
+        102.03
+    ],
+    "objurgo": [
+        null,
+        102.03
+    ],
+    "crabro": [
+        null,
+        102.03
+    ],
+    "stultitia": [
+        null,
+        102.03
+    ],
+    "superbia": [
+        "N",
+        102.03
+    ],
+    "perconto": [
+        null,
+        102.03
+    ],
+    "salutaui": [
+        null,
+        102.03
+    ],
+    "ualuisses": [
+        null,
+        102.03
+    ],
+    "exquisiui": [
+        null,
+        102.03
+    ],
+    "insania": [
+        null,
+        102.03
+    ],
+    "omen": [
+        null,
+        102.03
+    ],
+    "ominator": [
+        null,
+        102.03
+    ],
+    "condecet": [
+        null,
+        102.03
+    ],
+    "praegno": [
+        null,
+        102.03
+    ],
+    "obrodo": [
+        null,
+        102.03
+    ],
+    "fortasse": [
+        "D",
+        102.03
+    ],
+    "ater1": [
+        null,
+        102.03
+    ],
+    "bilis": [
+        null,
+        102.03
+    ],
+    "percio": [
+        null,
+        102.03
+    ],
+    "impliciscor": [
+        null,
+        102.03
+    ],
+    "pedo1": [
+        null,
+        102.03
+    ],
+    "infero": [
+        null,
+        102.03
+    ],
+    "teloboas": [
+        null,
+        102.03
+    ],
+    "primulus": [
+        null,
+        102.03
+    ],
+    "con-memini": [
+        "D",
+        102.03
+    ],
+    "somnium": [
+        null,
+        102.03
+    ],
+    "expergiscor": [
+        null,
+        102.03
+    ],
+    "prodigialis": [
+        null,
+        102.03
+    ],
+    "mola": [
+        "N",
+        102.03
+    ],
+    "salio1": [
+        null,
+        102.03
+    ],
+    "tus": [
+        null,
+        102.03
+    ],
+    "comprecor": [
+        null,
+        102.03
+    ],
+    "refertsi": [
+        null,
+        102.03
+    ],
+    "iterum": [
+        "D",
+        102.03
+    ],
+    "inclemens": [
+        null,
+        102.03
+    ],
+    "expugnauisses": [
+        null,
+        102.03
+    ],
+    "audiuerim": [
+        null,
+        102.03
+    ],
+    "adverro": [
+        null,
+        102.03
+    ],
+    "demiror": [
+        null,
+        102.03
+    ],
+    "conuenisti": [
+        null,
+        102.03
+    ],
+    "narrauisti": [
+        null,
+        102.03
+    ],
+    "thessala": [
+        null,
+        102.03
+    ],
+    "secedo": [
+        null,
+        102.03
+    ],
+    "cistellula": [
+        null,
+        102.03
+    ],
+    "obsignaui": [
+        null,
+        102.03
+    ],
+    "circumfero": [
+        null,
+        102.03
+    ],
+    "larva": [
+        null,
+        102.03
+    ],
+    "infitior": [
+        null,
+        102.03
+    ],
+    "convinco": [
+        null,
+        102.03
+    ],
+    "donatu's": [
+        null,
+        102.03
+    ],
+    "praestigiatrix": [
+        null,
+        102.03
+    ],
+    "exsol": [
+        null,
+        102.03
+    ],
+    "congeminauimus": [
+        null,
+        102.03
+    ],
+    "posterus": [
+        null,
+        102.03
+    ],
+    "praecurro": [
+        null,
+        102.03
+    ],
+    "eximo": [
+        null,
+        102.03
+    ],
+    "adiuuas": [
+        null,
+        102.03
+    ],
+    "osculo1": [
+        null,
+        102.03
+    ],
+    "exsequor": [
+        null,
+        102.03
+    ],
+    "euge": [
+        null,
+        102.03
+    ],
+    "interpello": [
+        null,
+        102.03
+    ],
+    "appono": [
+        null,
+        102.03
+    ],
+    "convivium": [
+        "N",
+        102.03
+    ],
+    "cenauimus": [
+        null,
+        102.03
+    ],
+    "dormito": [
+        null,
+        102.03
+    ],
+    "cubiculum": [
+        "N",
+        102.03
+    ],
+    "mors": [
+        "N",
+        102.03
+    ],
+    "haereo": [
+        null,
+        102.03
+    ],
+    "edico": [
+        null,
+        102.03
+    ],
+    "impudens": [
+        null,
+        102.03
+    ],
+    "egeo": [
+        "V",
+        102.03
+    ],
+    "mutuus": [
+        null,
+        102.03
+    ],
+    "gener": [
+        null,
+        102.03
+    ],
+    "propemodum": [
+        null,
+        102.03
+    ],
+    "ad-sentio": [
+        "R",
+        102.03
+    ],
+    "quispiam": [
+        null,
+        102.03
+    ],
+    "munus": [
+        "N",
+        102.03
+    ],
+    "fungor": [
+        null,
+        102.03
+    ],
+    "subditivus": [
+        null,
+        102.03
+    ],
+    "praestigiator": [
+        null,
+        102.03
+    ],
+    "iunonem": [
+        null,
+        102.03
+    ],
+    "nequiquam": [
+        "D",
+        102.03
+    ],
+    "protervus": [
+        null,
+        102.03
+    ],
+    "~i": [
+        null,
+        102.03
+    ],
+    "probo": [
+        null,
+        102.03
+    ],
+    "doto1": [
+        null,
+        102.03
+    ],
+    "dos": [
+        null,
+        102.03
+    ],
+    "sedo": [
+        null,
+        102.03
+    ],
+    "cupido": [
+        "N",
+        102.03
+    ],
+    "parens": [
+        "N",
+        102.03
+    ],
+    "munificus1": [
+        null,
+        102.03
+    ],
+    "prosum": [
+        null,
+        102.03
+    ],
+    "examussim": [
+        null,
+        102.03
+    ],
+    "delenio": [
+        null,
+        102.03
+    ],
+    "per-do": [
+        "R",
+        102.03
+    ],
+    "denego": [
+        null,
+        102.03
+    ],
+    "matrimonium": [
+        null,
+        102.03
+    ],
+    "naucrate": [
+        null,
+        102.03
+    ],
+    "iii": [
+        "M",
+        102.03
+    ],
+    "iii.i": [
+        "M",
+        102.03
+    ],
+    "cenaculum": [
+        "N",
+        102.03
+    ],
+    "interdum": [
+        "D",
+        102.03
+    ],
+    "apporto": [
+        null,
+        102.03
+    ],
+    "incoho": [
+        null,
+        102.03
+    ],
+    "transigo": [
+        null,
+        102.03
+    ],
+    "accuso": [
+        null,
+        102.03
+    ],
+    "culpo": [
+        null,
+        102.03
+    ],
+    "innocens": [
+        "A",
+        102.03
+    ],
+    "frustratio": [
+        null,
+        102.03
+    ],
+    "inicio": [
+        null,
+        102.03
+    ],
+    "iii.ii": [
+        "M",
+        102.03
+    ],
+    "inficio": [
+        null,
+        102.03
+    ],
+    "clamito": [
+        null,
+        102.03
+    ],
+    "admitto": [
+        null,
+        102.03
+    ],
+    "sus": [
+        null,
+        102.03
+    ],
+    "perpetior": [
+        null,
+        102.03
+    ],
+    "adjuro1": [
+        null,
+        102.03
+    ],
+    "insuper": [
+        "D",
+        102.03
+    ],
+    "obsum": [
+        null,
+        102.03
+    ],
+    "exhibeo": [
+        null,
+        102.03
+    ],
+    "a-verto": [
+        "E",
+        102.03
+    ],
+    "ingenium": [
+        "N",
+        102.03
+    ],
+    "osus": [
+        null,
+        102.03
+    ],
+    "obtueor": [
+        null,
+        102.03
+    ],
+    "heia": [
+        null,
+        102.03
+    ],
+    "iracundus": [
+        null,
+        102.03
+    ],
+    "sermo": [
+        null,
+        102.03
+    ],
+    "revorto": [
+        null,
+        102.03
+    ],
+    "ridiculus": [
+        null,
+        102.03
+    ],
+    "praeuortier": [
+        null,
+        102.03
+    ],
+    "auorti": [
+        null,
+        102.03
+    ],
+    "duxero.~": [
+        null,
+        102.03
+    ],
+    "reuentum": [
+        null,
+        102.03
+    ],
+    "bis": [
+        "D",
+        102.03
+    ],
+    "patior": [
+        "V",
+        102.03
+    ],
+    "voveo": [
+        null,
+        102.03
+    ],
+    "euocate": [
+        null,
+        102.03
+    ],
+    "obstringo": [
+        null,
+        102.03
+    ],
+    "secerno": [
+        null,
+        102.03
+    ],
+    "iii.iii": [
+        "M",
+        102.03
+    ],
+    "exequar": [
+        null,
+        102.03
+    ],
+    "frugis": [
+        null,
+        102.03
+    ],
+    "instituo": [
+        null,
+        102.03
+    ],
+    "tero": [
+        null,
+        102.03
+    ],
+    "tristis": [
+        "A",
+        102.03
+    ],
+    "hilarus": [
+        null,
+        102.03
+    ],
+    "derideo": [
+        null,
+        102.03
+    ],
+    "expurigationem": [
+        null,
+        102.03
+    ],
+    "divina": [
+        "N",
+        102.03
+    ],
+    "euoca": [
+        null,
+        102.03
+    ],
+    "mora": [
+        "N",
+        102.03
+    ],
+    "erro1": [
+        null,
+        102.03
+    ],
+    "quovis": [
+        "P",
+        102.03
+    ],
+    "commentus": [
+        null,
+        102.03
+    ],
+    "ministro": [
+        null,
+        102.03
+    ],
+    "iii.iu": [
+        "M",
+        102.03
+    ],
+    "abscedo": [
+        null,
+        102.03
+    ],
+    "obsisto": [
+        null,
+        102.03
+    ],
+    "seruolo": [
+        null,
+        102.03
+    ],
+    "seni": [
+        null,
+        102.03
+    ],
+    "admoneo": [
+        null,
+        102.03
+    ],
+    "inspecto": [
+        null,
+        102.03
+    ],
+    "corona": [
+        "N",
+        102.03
+    ],
+    "escendo": [
+        null,
+        102.03
+    ],
+    "aspello": [
+        null,
+        102.03
+    ],
+    "madidus": [
+        null,
+        102.03
+    ],
+    "sobrius": [
+        null,
+        102.03
+    ],
+    "suffero": [
+        null,
+        102.03
+    ],
+    "poena": [
+        "N",
+        102.03
+    ],
+    "studium": [
+        "N",
+        102.03
+    ],
+    "addecet": [
+        null,
+        102.03
+    ],
+    "siquidem": [
+        null,
+        102.03
+    ],
+    "ascendo": [
+        null,
+        102.03
+    ],
+    "tego": [
+        null,
+        102.03
+    ],
+    "iu": [
+        null,
+        102.03
+    ],
+    "iu.i": [
+        null,
+        102.03
+    ],
+    "platalea": [
+        null,
+        102.03
+    ],
+    "perreptaui": [
+        null,
+        102.03
+    ],
+    "gymnasium1": [
+        null,
+        102.03
+    ],
+    "myropolium": [
+        null,
+        102.03
+    ],
+    "emporium": [
+        null,
+        102.03
+    ],
+    "macellum": [
+        null,
+        102.03
+    ],
+    "palaestra": [
+        null,
+        102.03
+    ],
+    "medicina": [
+        "N",
+        102.03
+    ],
+    "tonstrina": [
+        null,
+        102.03
+    ],
+    "sacro": [
+        null,
+        102.03
+    ],
+    "defatiscor": [
+        null,
+        102.03
+    ],
+    "quaestio": [
+        null,
+        102.03
+    ],
+    "occludo": [
+        null,
+        102.03
+    ],
+    "eugepae": [
+        null,
+        102.03
+    ],
+    "parito": [
+        null,
+        102.03
+    ],
+    "heus": [
+        null,
+        102.03
+    ],
+    "ostium": [
+        "N",
+        102.03
+    ],
+    "iu.ii": [
+        null,
+        102.03
+    ],
+    "effringo": [
+        null,
+        102.03
+    ],
+    "fatuus": [
+        null,
+        102.03
+    ],
+    "cardo": [
+        null,
+        102.03
+    ],
+    "stolidus": [
+        null,
+        102.03
+    ],
+    "rogito": [
+        null,
+        102.03
+    ],
+    "ulmus": [
+        "N",
+        102.03
+    ],
+    "acheruns": [
+        null,
+        102.03
+    ],
+    "ferveo": [
+        null,
+        102.03
+    ],
+    "prodigus": [
+        null,
+        102.03
+    ],
+    "olim": [
+        "D",
+        102.03
+    ],
+    "adulescentia": [
+        "N",
+        102.03
+    ],
+    "quidum": [
+        null,
+        102.03
+    ],
+    "senecta": [
+        null,
+        102.03
+    ],
+    "mendico": [
+        null,
+        102.03
+    ],
+    "fundito": [
+        null,
+        102.03
+    ],
+    "crux": [
+        null,
+        102.03
+    ],
+    "mastigia": [
+        null,
+        102.03
+    ],
+    "occupo": [
+        null,
+        102.03
+    ],
+    "occasio": [
+        null,
+        102.03
+    ],
+    "c": [
+        "C",
+        102.03
+    ],
+    "infringo": [
+        null,
+        102.03
+    ],
+    "aula": [
+        null,
+        102.03
+    ],
+    "cinis": [
+        null,
+        102.03
+    ],
+    "d": [
+        null,
+        102.03
+    ],
+    "matula": [
+        null,
+        102.03
+    ],
+    "infundo": [
+        null,
+        102.03
+    ],
+    "laruatu's": [
+        null,
+        102.03
+    ],
+    "medicus": [
+        "N",
+        102.03
+    ],
+    "f": [
+        null,
+        102.03
+    ],
+    "exiurauisti": [
+        null,
+        102.03
+    ],
+    "g": [
+        null,
+        102.03
+    ],
+    "morbus": [
+        "N",
+        102.03
+    ],
+    "medico": [
+        null,
+        102.03
+    ],
+    "laruatus": [
+        null,
+        102.03
+    ],
+    "k": [
+        null,
+        102.03
+    ],
+    "l": [
+        null,
+        102.03
+    ],
+    "scrobis": [
+        null,
+        102.03
+    ],
+    "ecfodito": [
+        null,
+        102.03
+    ],
+    "sexageni": [
+        null,
+        102.03
+    ],
+    "n": [
+        null,
+        102.03
+    ],
+    "seru": [
+        null,
+        102.03
+    ],
+    "preco": [
+        null,
+        102.03
+    ],
+    "manifestus": [
+        null,
+        102.03
+    ],
+    "obtorqueo": [
+        null,
+        102.03
+    ],
+    "fur": [
+        "N",
+        102.03
+    ],
+    "flagitium": [
+        "N",
+        102.03
+    ],
+    "q": [
+        null,
+        102.03
+    ],
+    "impedio": [
+        null,
+        102.03
+    ],
+    "thesaurus": [
+        null,
+        102.03
+    ],
+    "pudeo": [
+        null,
+        102.03
+    ],
+    "gloss": [
+        null,
+        102.03
+    ],
+    "plaut": [
+        null,
+        102.03
+    ],
+    "clandestinus": [
+        null,
+        102.03
+    ],
+    "iu.iii": [
+        null,
+        102.03
+    ],
+    "partio2": [
+        null,
+        102.03
+    ],
+    "usquam": [
+        "D",
+        102.03
+    ],
+    "bleph": [
+        null,
+        102.03
+    ],
+    "inultus": [
+        null,
+        102.03
+    ],
+    "eloquar.~": [
+        null,
+        102.03
+    ],
+    "ulciscor": [
+        null,
+        102.03
+    ],
+    "thessalum": [
+        null,
+        102.03
+    ],
+    "veneficus": [
+        "N",
+        102.03
+    ],
+    "peruorse": [
+        null,
+        102.03
+    ],
+    "perturbo": [
+        null,
+        102.03
+    ],
+    "rumpo": [
+        null,
+        102.03
+    ],
+    "patro": [
+        null,
+        102.03
+    ],
+    "auom": [
+        null,
+        102.03
+    ],
+    "obtrunco": [
+        null,
+        102.03
+    ],
+    "constituo": [
+        null,
+        102.03
+    ],
+    "u.i": [
+        null,
+        102.03
+    ],
+    "spes": [
+        "N",
+        102.03
+    ],
+    "ops1": [
+        null,
+        102.03
+    ],
+    "vita": [
+        "N",
+        102.03
+    ],
+    "pectus": [
+        "N",
+        102.03
+    ],
+    "mare": [
+        "N",
+        102.03
+    ],
+    "opprimo": [
+        null,
+        102.03
+    ],
+    "absumo": [
+        null,
+        102.03
+    ],
+    "prospicio": [
+        null,
+        102.03
+    ],
+    "strepitus": [
+        null,
+        102.03
+    ],
+    "insto": [
+        null,
+        102.03
+    ],
+    "'alcumena": [
+        "U",
+        102.03
+    ],
+    "cultor": [
+        null,
+        102.03
+    ],
+    "exsurgite'": [
+        null,
+        102.03
+    ],
+    "'qui": [
+        "U",
+        102.03
+    ],
+    "occido1": [
+        null,
+        102.03
+    ],
+    "metu.'": [
+        "N",
+        102.03
+    ],
+    "exsurgo": [
+        null,
+        102.03
+    ],
+    "ardeo": [
+        null,
+        102.03
+    ],
+    "inclamo": [
+        null,
+        102.03
+    ],
+    "erilis": [
+        null,
+        102.03
+    ],
+    "accurro": [
+        null,
+        102.03
+    ],
+    "scisco": [
+        null,
+        102.03
+    ],
+    "provideo": [
+        null,
+        102.03
+    ],
+    "surgo": [
+        null,
+        102.03
+    ],
+    "br": [
+        null,
+        102.03
+    ],
+    "secus": [
+        null,
+        102.03
+    ],
+    "acherunte": [
+        null,
+        102.03
+    ],
+    "egredior": [
+        null,
+        102.03
+    ],
+    "impello": [
+        null,
+        102.03
+    ],
+    "gesto": [
+        null,
+        102.03
+    ],
+    "meum": [
+        "A",
+        102.03
+    ],
+    "pius": [
+        "A",
+        102.03
+    ],
+    "paucus": [
+        null,
+        102.03
+    ],
+    "uterus": [
+        null,
+        102.03
+    ],
+    "puerpera": [
+        null,
+        102.03
+    ],
+    "contonat": [
+        null,
+        102.03
+    ],
+    "ruo": [
+        null,
+        102.03
+    ],
+    "interea": [
+        "D",
+        102.03
+    ],
+    "gemo": [
+        null,
+        102.03
+    ],
+    "ploro": [
+        "V",
+        102.03
+    ],
+    "erga": [
+        null,
+        102.03
+    ],
+    "colligo1": [
+        null,
+        102.03
+    ],
+    "incunabula": [
+        null,
+        102.03
+    ],
+    "divinitus": [
+        null,
+        102.03
+    ],
+    "suppetiae": [
+        null,
+        102.03
+    ],
+    "condio": [
+        null,
+        102.03
+    ],
+    "devolo": [
+        null,
+        102.03
+    ],
+    "jubatus": [
+        null,
+        102.03
+    ],
+    "deorsum": [
+        "D",
+        102.03
+    ],
+    "impluvium": [
+        null,
+        102.03
+    ],
+    "extollo": [
+        null,
+        102.03
+    ],
+    "capitum": [
+        "N",
+        102.03
+    ],
+    "pa": [
+        null,
+        102.03
+    ],
+    "circumuisere": [
+        null,
+        102.03
+    ],
+    "recessim": [
+        null,
+        102.03
+    ],
+    "acer": [
+        null,
+        102.03
+    ],
+    "exilit": [
+        null,
+        102.03
+    ],
+    "perniciter": [
+        null,
+        102.03
+    ],
+    "formidulosus": [
+        "A",
+        102.03
+    ],
+    "membrum": [
+        null,
+        102.03
+    ],
+    "percipio": [
+        null,
+        102.03
+    ],
+    "con-suesco": [
+        "D",
+        102.03
+    ],
+    "cubitus1": [
+        null,
+        102.03
+    ],
+    "paeniteo": [
+        null,
+        102.03
+    ],
+    "dimidium": [
+        "N",
+        102.03
+    ],
+    "divido": [
+        null,
+        102.03
+    ],
+    "hostia": [
+        null,
+        102.03
+    ],
+    "conjector": [
+        null,
+        102.03
+    ],
+    "consulo": [
+        null,
+        102.03
+    ],
+    "u.ii": [
+        null,
+        102.03
+    ],
+    "hariolus": [
+        null,
+        102.03
+    ],
+    "haruspex": [
+        null,
+        102.03
+    ],
+    "concubo": [
+        null,
+        102.03
+    ],
+    "profectu's": [
+        null,
+        102.03
+    ],
+    "semen": [
+        "N",
+        102.03
+    ],
+    "glorior": [
+        null,
+        102.03
+    ],
+    "vitio": [
+        null,
+        102.03
+    ],
+    "uorteres": [
+        null,
+        102.03
+    ],
+    "subigo": [
+        null,
+        102.03
+    ],
+    "migro": [
+        null,
+        102.03
+    ],
+    "u.iii": [
+        null,
+        102.03
+    ],
+    "promitto": [
+        null,
+        102.03
+    ],
+    "library": [
+        null,
+        102.03
+    ],
+    "classics": [
+        null,
+        102.03
+    ],
+    "pagus": [
+        null,
+        102.03
+    ]
+}
